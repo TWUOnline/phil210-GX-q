@@ -7,11 +7,13 @@ cultural-relativism
 moral-nihilism
 moral-objectivism-vs.-subjectivism
 free-will-and-moral-responsibility
+why-be-moral
+egoism
+social-contract-morality
 title
 title-1
 title-2
 title-3
-title-4
 sample-unit-format
 topic-1-title
 topic-2-title
