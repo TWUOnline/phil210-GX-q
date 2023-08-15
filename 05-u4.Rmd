@@ -1,1 +1,217 @@
-# Title
+# Sexual Morality?
+
+## Overview {-}
+
+Welcome to Unit 4!
+
+Welcome to unit six. In this unit we will be addressing the sensitive topic of date rape and the influence of alcohol. It’s a topic we need to treat with care and understanding. Defining key terms and concepts will be especially important here. Most of us have some idea of what is meant by the term **date rape** and we know it is like other cases of rape in some ways but unlike them in others. What exactly are the differences and why do they matter?
+
+In one of our readings we will see date rape defined as a sexual act which falls into the gray area between **consensual sex** and **aggressive rape.** If this definition is correct, then it leads us to one of the most important concepts in this discussion, namely, the concept of **consent,** which normally represents the dividing line between consensual sex and rape in general. While obtaining consent is normally considered unproblematic, this is not always the case in date rape and it has led to a distinction between **valid consent** and **silent submission.** Understanding the difference between these two ideas is critical because it can constitute the difference between an act of date rape and one of consensual sex.
+
+In one of our readings for this unit, Nicholas Dixon, an American professor of philosophy, introduces the role of alcohol into this discussion and argues that it is a critical factor precisely because it complicates the process of determining consent. In another article we will read, Conor Kelly, an American professor and researcher in theological ethics, raises the concept of **hookup culture.** This refers to the increasingly common practice of engaging in sexual activity with no expectation of a longer-term commitment. She presents us with a foundational ethical question, especially from a feminist ethical point of view: Does the rise and wide acceptance of hookup culture represent an abuse of women or is it an expression of female liberation?
+
+Here are some vital starting questions raised in our first reading by Lois Pineau, an American philosopher, for us to consider as we think about these issues: If a man gets a woman drunk and then has sex with her, would it count as rape? It would seem so but, then, what precisely constitutes the act of “getting her drunk?” What if she was happy to go along with the drinking? Where is the line to be drawn? The situation is further complicated, adds Pineau, if a woman has engaged in provocative behaviour earlier. Pineau suggests that one way to approach this issue is to shift focus from questions like these and ask what is required for sexual activity to go well. What conditions must be met for this to occur? She suggests one condition for sexual activity going well by introducing the concept of **communicative sexuality.** It will be important for us both to understand and reflect on this concept. Sometimes a woman simply goes along, says Pineau, either because her resistance is broken down, perhaps by alcohol or peer pressure, or because she fears a worse outcome if she resists. In other words, she says, sometimes **assault** is mistaken for **seduction,** which implies **consent.** In the end, Pineau argues that these serious problems can be dealt with by practicing communicative sexuality. In our learning activities, we’ll have an opportunity to interact with classmates and help each other fine-tune our understanding of these important concepts. Well also reflect on our own ethical stance on the key questions involved in this sensitive topic.
+
+
+## Topics {-}
+
+This unit is divided into the following topics:
+
+1. Date Rape
+2. Alcohol & Rape
+3. Hookup Culture & Women’s Liberation
+
+
+## Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe how cultural assumptions sometimes lead to situations involving moral dilemmas of a sexual nature.
+- Discuss the importance of consent in determining the morality of a sexual encounter.
+- State the moral complexities surrounding impaired sexual activity.
+- Explain how both date rape and alcohol use sometimes create gray areas between fully consensual sex and aggressive rape.
+- Define the term, hookup culture, and discuss the question this raises regarding the advancement of women’s rights.
+- Discuss intelligently a number of rape myths.
+
+
+## Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff.  
+  - Sexual morality by Lois Pineau (p. 293-306)
+  - Sexual morality by Nicholas Dixon (p. 306-316) 
+  - Hookup culture, (p. 316-328)
+- Watch the videos related to Sexual morality.
+- Read and analyze the “Stuck in the Middle” Case Study
+- Take the ungraded quiz to review important concepts.
+
+
+*Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
+
+### Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
+## Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018. 
+- Other online resources will be provided in the unit.
+
+## Date Rape
+
+One of the first questions we need to ask is what, exactly, constitutes **date rape** and how it is different from rape in general? When can a person justifiably claim to have been “date-raped?” In our first reading, Lois Pineau, an American philosopher, writes that date rape falls into a gray area between **consensual sex** and **aggressive rape.** If she is correct, then we come directly to one of the most important concepts in this discussion, namely, **consent,** which represents the dividing line between consensual sex and rape in general. In most situations, we are well aware of how to give consent and normally think we know when we have given or withheld it. When someone invites us to be involved in their work project, for instance, we either agree to get involved or we do not. The notion of consent seems unproblematic. In the issue of date rape, however, complexities can arise in determining when genuine consent has been given.
+
+### Activity: Read, Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the section on date rape by Lois Pineau (p. 293-306) of your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
+
+Next, watch the following videos to learn more about key terms from this topic.
+
+[Watch: *What is the difference between rape and sexual assault or harassment, in the US?*](https://www.youtube.com/watch?v=0T3EMaKpGSQ){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0T3EMaKpGSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fGoWLWS4-kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *When Your Date Doesn't Hear The Word "No"*](https://www.youtube.com/watch?v=qj_OcHp7zm8){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qj_OcHp7zm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## Alcohol & Rape
+
+As we noted earlier, in the issue of date rape, complicating factors can arise in determining when genuine consent has been given and one of the most common ones is presented by the role of alcohol. Nicholas Dixon, an American philosopher, raises this factor and it leads him to speak of **impaired sex.** The discussion over alcohol is especially important since it can add confusion precisely at the point of consent which represents the dividing line between legitimate sexual activity and rape. As Pineau points out, a person’s consumption of alcohol can affect their ability to give consent. If a woman is so incapacitated by alcohol that she cannot meaningfully give consent, then would a sexual act constitute rape? Does anything change if she said “yes” while in this condition, or had engaged in provocative behaviour earlier? On the other hand, suppose a woman’s inhibitions have been reduced by alcohol and she gives her consent but later regrets it, claiming it was out of sync with her long-held values? Does a sexual act in this case count as rape? Why or why not? This has led to the distinction noted earlier between **valid consent** and **silent submission.**
+
+### Activity: Read, Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the section on alcohol and rape by Nicholas Dixon (p. 306-316) of your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+
+Next, watch the following videos to learn more about key terms from this topic.
+
+[Watch: *U of A Sexual Assault Centre: Let’s Talk: Alcohol and Sexual Assault*](https://www.youtube.com/watch?v=kU_TVp6_slw){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kU_TVp6_slw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *Washington Post-Kaiser poll*](https://www.washingtonpost.com/video/national/college-students-define-sexual-consent/2015/06/12/2c06cd5e-114a-11e5-a0fe-dccfea4653ee_video.html){target="_blank”}
+
+<div class="video-container">
+
+<iframe width='480' height='290' scrolling='no' src='https://www.washingtonpost.com/video/c/embed/2c06cd5e-114a-11e5-a0fe-dccfea4653ee' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+</div>
+
+```
+
+## Hookup Culture & Women’s Liberation
+
+Date rape does not happen in isolation. It occurs within a social context, and a key feature of the current social context is described by the term, hookup culture. This term is introduced to us by Conor Kelly in the article we will read by her for this topic. It refers to the practice of engaging in sexual activity with no expectation by either party of a longer-term relationship. As Kelly points out, hookup culture is increasingly accepted in our world. What we may not have noticed, however, is that it raises a key ethical question, one that she puts to us from the perspective of feminist ethics: Does hookup culture represent a step forward for women’s rights or is it, by nature, sexist and anti-women? Is it an expression of increased freedom and equality, or does it, in effect, treat women as simply means used by men to have more free sex with no strings attached? As we read Kelly’s article, let’s understand the concept of hookup culture and wrestle with this question. We’ll have an opportunity to see what this cultural practice means for the task of determining helpful guiding principles to apply to the maze of questions surrounding date rape.
+
+### Activity: Read and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the section on hookup culture, (p. 316-328) of your textbook, *Readings in Moral Philosophy* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+
+```
+
+### Activity: “Stuck in the Middle” Case Study {-}
+
+```{block2, type='reflect'}
+
+Read the following case and consider the questions presented.
+
+<div id="demobox">
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+*A long-time friend phones you and tells you she was raped last night on a date with another friend of yours.When you call the other friend, he is shocked to hear she is using the term, rape. He claims that she led him on and he really thought she was “into it.” After all, they had been drinking and touching throughout the evening at her place. Even though she seemed reluctant at one point, in the end she went along with it.  It so happens that you have just completed the course reading for this unit so you might be thinking of the complexities of the situation and the individual perspectives of both people*
+</div>
+---
+
+Based on the readings for this unit, 
+
+- What questions arise?
+- What questions should the people involved be asking themselves? 
+- What are bound to be the most difficult complicating factors in this discussion?
+
+*Note that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.
+
+```
+
+### Activity: Key Terms Quiz (ungraded) {-}
+
+```{block2, type='reflect'}
+
+Match the following terms to their correct definition.
+
+Although you will not be evaluated on these terms, they will assist you in the assignments for this course. Match the following terms to their correct definition.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="781" height="651" frameborder="0" allowfullscreen="allowfullscreen" title="Phil210-Act6.5"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+## Unit 4 Summary {-}
+
+In this unit we will be addressing the sensitive topic of date rape and the influence of alcohol. It’s a topic we need to treat with care and understanding. The following terms and concepts are critically important for us to understand the dynamics of this important issue, and we’ll begin by defining them: rape, date rape, aggressive rape, consent, valid consent, and silent submission, assault, communicative sexuality, and seduction. We’ll seek to understand the differences between these concepts and why they matter. We’ll also reflect on our own ethical viewpoints on the questions we raise in this issue.
+
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assignment 1:</span>
+
+<mark>*(add content)*</mark>
+
+<span class="blockhead">Assignment 2:</span>
+
+<mark>*(add content)*</mark>
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Describe how cultural assumptions sometimes lead to situations involving moral dilemmas of a sexual nature.
+- Discuss the importance of consent in determining the morality of a sexual encounter.
+- State the moral complexities surrounding impaired sexual activity.
+- Explain how both date rape and alcohol use sometimes create gray areas between fully consensual sex and aggressive rape.
+- Define the term, hookup culture, and discuss the question this raises regarding the advancement of women’s rights.
+- Discuss intelligently a number of rape myths.
+
+
+
+```
