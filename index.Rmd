@@ -1,10 +1,10 @@
 ---
-title: "[Course Name & #]"
+title: "phil210-GX"
 author: "Name"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-url: https://ma-lead.github.io/ldrs664
+url: https://twu-fhss.github.io/phil210-GX
 biblio-style: apalike
 ---
 
