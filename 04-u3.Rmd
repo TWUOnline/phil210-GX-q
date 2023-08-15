@@ -89,4 +89,93 @@ In this second video, we look at John Stuart Mill's influential work "On Liberty
 
 If we agree that the right to free speech has a sound moral basis, does this mean it is an absolute right with no exceptions? Or could there be certain limitations placed on it even while maintaining it as a genuine right? In other words, how far does this right go? If certain limitations are legitimate, what are they and what basis could be given for them? *Disagreement* appears to be a weak basis for limiting free speech. The fact that some people *disagree* with something you or I believe hardly seems like a proper reason to limit our free expression of that belief. Virtually every view point has its detractors and if we followed this principle consistently, it would lead to the collapse of the right to free speech. If, however, *disagreement* does not constitute a good reason for limiting free speech, then what does? In our second reading, we turn to this question. Catherine MacKinnon, an American lawyer and activist, presents us with a case in which she believes free speech ought to be limited, namely, pornography. She will argue both that free speech is important but that it should be limited in this one case. It will be important for us to follow her argument for both claims and consider our own stance toward them.
 
+### Activity: Read, Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the article by Catherine Mackinnon on pornography, civil rights, and free speech, in pages 268-278 of your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts. 
+
+Next, watch the following videos to learn more about key terms from this topic.
+
+[Watch: *Freedom of Speech: Crash Course Government and Politics #25*](https://www.youtube.com/watch?v=Zeeq0qaEaLw){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zeeq0qaEaLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+In this second video, Craig talks about Free Speech, its importance and some of the more controversial aspects of free speech - like hate speech. 
+
+[Watch: *The Pornography Phenomenon - Catharine MacKinnon*](https://www.youtube.com/watch?v=kdfPLJDmEIw){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kdfPLJDmEIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+### Activity: Controversial Speaker Case Study {-}
+
+```{block2, type='reflect'}
+
+Read and analyse the following case study.
+
+<div id="demobox">
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+A controversial person is coming to your community planning on giving a public lecture in the community hall.  The event which has been widely publicized has drawn protests from those who are petitioning the organizers to cancel the event.  They argue that this speaker’s views are offensive and should be neither tolerated nor even publicly expressed. From the course readings, how do you think John Stuart Mill would respond if he were one of the organizers?  Tell why you believe he would respond this way. Do you agree with him? Why or why not?
+</div>
+---
+
+*Note that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.*
+
+```
+
+### Activity: Key Terms Quiz (ungraded) {-}
+
+```{block2, type='reflect'}
+
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course. Match the following terms to their correct definition.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="648" height="562" frameborder="0" allowfullscreen="allowfullscreen" title="Phil210-Act5.4"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+```
+
+## Unit 3 Summary {-}
+
+In this unit we are turning our attention to the ethics of free speech and expression.  In many countries, the right to free speech is regarded as one of the foundations of society, as virtually an unquestioned cultural assumption and those who dare to challenge, or even question, it do so at their peril. In other words, it is a foundational right upon which we base many other rights.  In this unit we’ll explore the following intriguing questions about this right:  how did it gain such an elevated standing in the minds of so many people? Is there an ethical basis on which this right is grounded? Moreover, should it ever be limited or is it simply an absolute principle with no exceptions? If it should be limited, when, and why? What could possibly be so important that it would call for a limitation on one’s free speech?
+
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assignment 1:</span>
+
+<mark>*(add content)*</mark>
+
+<span class="blockhead">Assignment 2:</span>
+
+<mark>*(add content)*</mark>
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to: 
+
+- Explain John Stuart Mill’s four grounds for the freedom of expression.
+- Describe limitations on freedom of expression suggested by John Stuart Mill and his rationale for such limits.
+- Discuss why some who still favour freedom of speech believe pornography should not be freely distributed.
+- Show how John Stuart Mill’s Harm Principle is foundational to the question of when and why limits should be placed on free speech.
+
+
+```
 
