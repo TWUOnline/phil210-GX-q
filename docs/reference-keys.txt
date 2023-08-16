@@ -21,7 +21,9 @@ animal-rights.
 are-animals-self-aware
 do-we-practice-speciesism
 animals-do-not-have-rights-but
-title
+the-ethics-of-torture-terrorism
+is-torture-ever-justified
+a-rationale-for-terrorism-a-response.
 sample-unit-format
 topic-1-title
 topic-2-title
