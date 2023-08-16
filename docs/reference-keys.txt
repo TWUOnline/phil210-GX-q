@@ -10,7 +10,7 @@ free-will-and-moral-responsibility
 why-be-moral
 egoism
 social-contract-morality
-why-be-moral-1
+free-speech-and-its-limits
 a-moral-foundation-for-free-speech
 pornography-and-limits-on-free-speech
 sexual-morality
@@ -24,8 +24,4 @@ animals-do-not-have-rights-but
 the-ethics-of-torture-terrorism
 is-torture-ever-justified
 a-rationale-for-terrorism-a-response.
-sample-unit-format
-topic-1-title
-topic-2-title
-topic-3-title
 course-development-team

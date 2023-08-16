@@ -1,6 +1,6 @@
 ---
 title: "phil210-GX"
-author: "Name"
+author: "Paul Chamberlain"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
