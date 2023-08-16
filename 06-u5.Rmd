@@ -1,1 +1,300 @@
-# Title
+# Animal Rights. 
+
+## Overview {-}
+
+Welcome to Unit 5!
+
+Do animals have rights? We commonly speak of humans having rights, but animals? Could it be that your pet cat, or dog, or the local farmer’s livestock, or even animals living in the wild, have rights to certain things? This question has been a point of intense discussion in the past few decades and it is the focus of this unit. When we ask if animals have rights, we are really asking whether animals are the kinds of beings that could have rights. Of course, we cannot answer that question without having some idea of what kinds of beings have rights in the first place. If we can provide an answer to this question, then we will be well on our way to knowing whether animals have rights. The question of whether animals have rights leads directly to a more foundational one, namely, what it means to attribute a right to a being, whether it be a human or an animal? What are we saying when we affirm that someone has a right to something?
+
+A **right** is one of the strongest entities of which one could speak in both legal and moral discourse. It conveys the idea of being entitled to something. If a person does not receive something to which they have a right, then a wrong has been done. Their rights have been violated. This means that to affirm that one has a right to something is to make a forceful statement and one that carries implications for other people.
+
+**Legal rights,** such as the right to live free of a home invasion, are declared and enforced by governments. If someone violates your legal rights by breaking into your home and robbing you at gun point, that person violates this legal right of yours. He has acted illegally and, consequently, if caught, will be subject to a penalty from the government.
+
+In this unit, we are primarily concerned with moral rights rather than legal ones. **Moral rights** exist whether or not they are declared, recognized, or enforced by governments. Of course, there is often debate about whether something actually is a moral right, but few people disagree that moral rights exist. To have a moral right to something, say a right to live free of harm from others, means one is entitled to live without being attacked by others in one’s society regardless of whether the law requires it or not. If your neighbour attacks you in front of your home, then a moral wrong has been done since you did not receive something to which you had a moral right, namely an existence free of harm from others.
+
+We can take this one step further. If you have a moral right to something, say to live in safety, it also means that someone somewhere, in this case other members of your society, have a corresponding **moral duty** to honour that right by not causing you harm. If they do, then they have not fulfilled their moral duty to you. They have acted immorally.
+
+It should be obvious that the way we answer our original question of whether animals have rights will have a far-reaching implication for us. If we affirm that animals do have rights, it will mean that we have corresponding duties to treat them in certain ways and, in fact, are acting immorally if we do not treat them in these ways. We may prefer to deny that animals have rights in order to relieve ourselves of our duties toward them. Our desire to avoid moral duties, however, will not count as a legitimate reason for a no-animal-rights position because moral rights, by their nature, are not things we simply decide to confer upon others. That’s how legal rights work, but not moral rights. Moral rights are entities we simply recognize or discover.
+
+If animals do have rights, then a few other questions immediately follow. Which animals, what rights, and how did they get them? What is the basis for believing such rights exist? To answer this, we could ask how we, as humans, “get” the rights we say we have, rights to such things as life and liberty. Legal rights come from the government, but from where do we derive moral rights? Answering this question will inevitably lead to the question of what kinds of beings have rights. A more technical way of asking this is: **What are the “rights-giving characteristics” which any being who has rights possesses, and do any animals possess these characteristics?** This, then, becomes one of the key questions for us to explore. Answering it will help us determine whether a particular animal has rights. Different answers have been given to this query and we will see three very different ones in the readings for this unit. We will have an opportunity to examine and evaluate the basis for different perspectives regarding our duties to animals with our class colleagues.
+
+
+## Topics {-}
+
+This unit is divided into the following topics:
+
+1. Are Animals Self-Aware?
+2. Do We Practice Speciesism?
+3. Animals Do Have Rights But...
+
+
+
+## Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Define the term “right.”
+- Specify the difference between legal and moral rights.
+- Explain how moral rights are related to moral duties.
+- Identify at least two rights-giving-characteristics which any being which possesses moral rights must have.
+- Explain and assess Peter Singer’s rationale for his view that animals have certain moral rights.
+
+
+## Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff.  
+   - Introductory section on animal rights (p. 426-27) 
+   - Immanuel Kant (p. 428-29) 
+   - Animal rights by Peter Singer (p. 429-435) 
+   - Animal rights by Roger Scruton (p. 436-443) 
+- Watch the videos related to Animal Rights.
+- Read and analyze the “Singer” Case Study
+- Read an article on AI and personhood, and watch the video related to it. Then, reflect on if AI should have rights
+- Take the ungraded quiz to review important concepts.
+
+
+*Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
+
+### Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
+## Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018. 
+- Other online resources will be provided in the unit.
+
+
+## Are Animals Self-Aware?
+
+The first answer concerning animal rights that we will consider is given by the eighteenth century German philosopher, Immanuel Kant, who believed animals do not have rights. Interestingly he tied his answer directly to the question of what kinds of being have rights. In order to have a right, says Kant, a being must be self-conscious, or in other words, self-aware. Since he believed animals do not have this characteristic, they cannot possess rights. As we read his article, we will want to note carefully how he arrived at these two conclusions, first, that a key rights-giving characteristic of any being is self-consciousness (sometimes referred to as self-awareness), and secondly, that animals do not possess this characteristic. Let’s suppose, for purposes of argument, that Kant was correct. What does this mean, then, for the way we should treat animals? One might think that if animals have no rights, as Kant argued, that we are free to treat them in just any old way. We may be surprised at Kant’s answer to this question but it is one to which we will also want to pay special attention. Once we understand it, we will be in a position to see if we agree with it.
+
+### Activity: Read, Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the introductory section on animal rights (p. 426-27) and the section by Immanuel Kant (p. 428-29) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
+
+Next, choose from the following videos to learn more about key terms from this topic.
+
+[Watch: *Non-Human Animals: Crash Course Philosophy #42*](https://www.youtube.com/watch?v=y3-BX-jN_Ac){target="_blank”}. 
+
+In this video, you will explore what philosophers like Peter Singer and Carl Cohen have to say about applying philosophy to moral considerations regarding non-human animals, including the concept of equal consideration of interests.
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3-BX-jN_Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank”}
+
+In this video, Bryan B Rasmussen navigates through the controversial question: Do animals think?. He shows how determining intelligence often says more about how humans think than about anything else. 
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fGoWLWS4-kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *What animals are thinking and feeling, and why it should matter*](https://www.youtube.com/watch?v=-wkdH_wluhw){target="_blank”}
+
+In this video, Carl Safina takes us inside the lives and minds of animals around the world, witnessing their profound capacity for perception, thought and emotion, showing why the word "it" is often inappropriate as we discover "who" they really are. And yet, we are wiping out the very animals we should celebrate; we are the flood coming for Noah's Ark. Carl leaves us with a difficult question: Do we have what it takes to let life on earth survive? 
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wkdH_wluhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## Do We Practice Speciesism?
+
+The second answer to our question about animal rights could hardly be more different from Immanuel Kant’s. It comes from well-known American ethicist, Peter Singer, who argued that animals do, indeed, have rights, in the same strong sense as we humans have them. Furthermore, since animals have rights, it means that many of our current practices involving animals are actually immoral. They violate the rights of animals. In fact, Singer went so far as to argue that the very principle of equality which we apply to humans should be extended to many animals as well. When we restrict this principle to humans, he said, we are guilty of something he called **speciesism.** While this term may be new to us, it is one we will want to understand clearly when we read his article. It is akin to the terms, racism and sexism, which refer to practices which are immoral because they violate the principle of equality. Speciesism, said Singer, also violates this principle and, for this reason, is immoral as well. As we read through Singer’s article, we’ll want to see precisely what he meant by the term, speciesism, and how he reasoned to his conclusion that animals have rights in this strong sense.
+
+### Activity: Read, Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the section on animal rights by Peter Singer (p. 429-435) in your textbook, *Readings in Moral Philosophy* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+
+Next, choose from the following videos to learn more about key terms from this topic.
+
+[Watch: *Personhood*](https://www.youtube.com/watch?v=GxM9BZeRrUI){target="_blank”}
+
+In this video, Hank tackles the question of personhood. The way we answer this question informs all sorts of things about the way we move about the world, including our views on some of our greatest social debates.
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GxM9BZeRrUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *Defining Speciesism with Peter Singer*](https://www.youtube.com/watch?v=k57F49ymmQg){target="_blank”}.  
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k57F49ymmQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: *Non-Human Animal Ethics*](https://www.youtube.com/watch?v=TgRoZVT6kYc){target="_blank”}
+
+In this video, Peter Singer discusses the moral value of non-human animals from Judaism & Christianity to Aristotle to Bentham. Singer highlights Benthan's view that the capacity for suffering/joy is the vital characteristic that entitles a being to moral consideration. He also discusses why we should take non-human animal suffering seriously and what we can do to alleviate the suffering of non-human animals. 
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgRoZVT6kYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## Animals-Do-Not-Have-Rights-But...
+
+The third answer to our question about animal rights comes from American English professor, Roger Scruton, and could be summed up as the, “Animals-do-not-have-rights-but. . .” position. They do not have rights, says Scruton, for the simple reason that they are not the kinds of beings that possess rights. Notice that in saying this, Scruton, like Kant, is grounding his view on animal rights directly in the question of the kind of beings which have rights.
+
+What kinds of beings, then, do have rights? Scruton’s answer is that **persons** have rights while **nonpersons** do not. But what, precisely, does it mean to be a person? It means, he says, that one has the distinguishing features of personhood which include such things as self-awareness, the power of reason, personality, etc. Persons are capable of entering into ongoing dialogue with other persons. To state this more technically, personhood is the chief rights-giving characteristic.
+
+Scruton also introduces the term **moral community.** This refers to a group of persons who have both moral rights and also corresponding moral duties to each other. Again, they have these because they are the types of beings which are capable of having such rights and duties, namely, persons. Animals, on the other hand, are not members of moral communities since they do not have these characteristics.
+As we read Scruton’s article, we will want to ask, however, if he has left open the possibility that there could be exceptions to his principle. What would happen, for example, if we discovered animals that did appear to have these rights-giving characteristics, self-awareness, reason, personality, etc.? Might they be persons? If so, would we need to regard them as having rights and duties and, thus, as being members of a moral community?
+
+Regardless of how we answer that question, we will also want to pay special heed to the question of how animals should be treated if they really have no rights, as Scruton argues. It’s the same question we asked for Immanuel Kant’s view. If they have no rights, does this mean that any treatment of them at all is morally permissible? Interestingly, Scruton’s answer is, no. He argues that we still have moral duties to animals even though these duties are not grounded in any rights possessed by the animals. On what, then, are they grounded?
+
+We will want to take special note of Scruton’s reasoning and learn on what he is grounding our duties to animals. If they are not grounded on any rights possessed by the animals, then where do our duties come from? Once we grasp his answer to this question, we will be in a position to assess the basis he provides for our duties toward animals.
+
+### Activity: Read, Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Read the section on animal rights by Roger Scruton (p. 436-443) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+
+Next, watch the following videos to learn more about key terms from this topic.
+
+[Watch: *Ethics: Moral Status*](https://www.youtube.com/watch?v=smuhAjyRbw0&t=3s){target="_blank”}.  
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smuhAjyRbw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+In the following  video, Tyler Doggett asks why it is morally permissible to kill animals for food. He offers a few explanations that seem unsatisfactory. 
+
+[Watch: *Ethics: Killing Animals for Food*](https://www.youtube.com/watch?v=3HAMk_ZYO7g){target="_blank”}.
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3HAMk_ZYO7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+### Activity: “Singer” Case Study {-}
+
+```{block2, type='reflect'}
+
+For this case study, analyze Peter Singer’s well-known contention that the vital characteristic that gives a being the right to equal consideration is not the ability to reason, as is commonly assumed, but rather the capacity for suffering. To review this, see his article in the course readings (p. 429-432).
+
+- Do you agree with this contention? Why or why not? 
+- State also whether you agree with the principle he derives from this contention, namely, that the principle of equality which we commonly apply to humans should be extended to other species.
+   - If you agree with this, explain why. 
+   - If you do not agree, explain why. 
+   - In either case, draw upon the concepts and principles from both Immanuel Kant’s and Roger Scruton’s articles. 
+
+
+*Note that you may be asked to review this case or similar cases in your class discussion groups. You may want to prepare by relating the case to your readings. Specifically, identify the ethical issues and terms to help explain the case.**
+
+```
+
+### Activity: Artificial Intelligence Extension {-}
+
+```{block2, type='reflect'}
+
+There are many sci-fi movies and shows that play with the idea of the personhood of Artificial Intelligence. However, is this idea as fictional as it once was? Or has technological innovation brought this idea to the point where we need to seriously address it?
+
+Watch the following video to learn more about if AI has rights.where Hank explores artificial intelligence, including weak AI and strong AI, and the various ways that thinkers have tried to define strong AI. 
+
+[Watch: *Artificial Intelligence & Personhood*](https://www.youtube.com/watch?v=39EdqUbj92U){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39EdqUbj92U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+Then read the article from [Did A Robot Write This? How AI Is Impacting Journalism](https://www.forbes.com/sites/nicolemartin1/2019/02/08/did-a-robot-write-this-how-ai-is-impacting-journalism/?sh=286bd4eb7795){target="_blank”}
+
+
+<span class="blockhead">Questions to Reflect on:</span>
+
+- How do some of the ideas surrounding the personhood of AI reflect some of the ideas and arguments you have encountered about animal rights?
+- What do you think? Could strong AI be considered a person and have rights? Use key terms from this unit to justify your answer.
+
+```
+
+### Activity: Key Terms Quiz (ungraded) {-}
+
+```{block2, type='reflect'}
+
+In order to review some of the major concepts from the text, take the following unmarked quiz.
+
+Although you will not be evaluated on these terms, they will assist you in the assignments for this course. Match the following terms to their correct definition.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="781" height="595" frameborder="0" allowfullscreen="allowfullscreen" title="Phil210-Act7.5"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+## Unit 5 Summary {-}
+
+In this unit, we’ll be turning our attention to animal rights, an issue which has been the subject of intense discussion and disagreement around the world in recent years.  A right is one of the strongest entities one could speak of in both moral and legal discourse and we commonly speak of humans having them.  Our question in this unit, however, is whether your pet cat, or dog, or the local farmer’s livestock, or even animals living in the wild, might actually have rights to certain things too? When we ask if animals have rights, we are really asking whether they are the kinds of beings that could have rights. This, in turn, leads to two further questions:  what kinds of beings have rights in the first place, and what does it mean to attribute a right to a being, whether it be human or animal?  These are the questions we’ll explore in this unit.
+
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assignment 1:</span>
+
+<mark>*(add content)*</mark>
+
+<span class="blockhead">Assignment 2:</span>
+
+<mark>*(add content)*</mark>
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Define the term “right.”
+- Specify the difference between legal and moral rights.
+- Explain how moral rights are related to moral duties.
+- Identify at least two rights-giving-characteristics which any being which possesses moral rights must have.
+- Explain and assess Peter Singer’s rationale for his view that animals have certain moral rights.
+
+
+```
+
+
