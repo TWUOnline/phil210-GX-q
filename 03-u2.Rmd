@@ -55,7 +55,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
 
-### Assessment {-}
+## Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
