@@ -385,13 +385,15 @@ In this unit we will turn our attention to a number of foundational terms and co
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Assignment 1:</span>
+<span class="blockhead">Reflective Journal (30%)</span>
 
-<mark>*(add content)*</mark>
+Throughout this course, you will be invited to write about what you are learning in a Reflective Journal. You should consider your journal as a place for you to try out new ideas, to test your assumptions, and possibly share what you are learning with your community. You are welcome to include ideas gleaned from conversations with faculty or peers, and from your own life experiences.
 
-<span class="blockhead">Assignment 2:</span>
+Your journal will record your reflections on the key issues addressed in the course text readings for Units 1 & 2. You should consider your journal as a place to try out new ideas, test your assumptions, and respond to the prompts in the course units so far.
 
-<mark>*(add content)*</mark>
+Your Reflective Journal should be submitted on Moodle by the end of the week 2
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
 ```
 

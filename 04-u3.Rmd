@@ -155,13 +155,14 @@ In this unit we are turning our attention to the ethics of free speech and expre
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Assignment 1:</span>
+<span class="blockhead">Ethics Video (30%)</span>
 
-<mark>*(add content)*</mark>
+For this assignment, you’ll create a 2-minute video articulating a moral viewpoint on one of the following issues: free speech or sexual morality (Units 3-4 topics). You should draw upon the readings from Units 3 and 4 to support your stance and make a concise case for your chosen viewpoint.
 
-<span class="blockhead">Assignment 2:</span>
+Your Ethics Video should be submitted on Moodle by the end of the week 4.
 
-<mark>*(add content)*</mark>
+*See the Assessments section for more details on submitting your Ethics Video, as well as the grading criteria.*
+
 
 ```
 

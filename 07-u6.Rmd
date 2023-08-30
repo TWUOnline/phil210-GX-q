@@ -200,13 +200,14 @@ In this unit we will be addressing a harsh and disquieting topic, namely torture
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Assignment 1:</span>
+<span class="blockhead">Project Presentation (40%)</span>
 
-<mark>*(add content)*</mark>
+For this presentation, you will prepare a 10–12-minute video in which you will address one of the following two issues: Animal rights or torture & terrorism.
+Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length. Also note that your research for the presentation must include sources which are not Christian or supportive of your position.
 
-<span class="blockhead">Assignment 2:</span>
+Your Project Presentation should be submitted on Moodle by the end of the week 6.
 
-<mark>*(add content)*</mark>
+*See the Assessments section for more details on submitting your Project Presentation, as well as the grading criteria.*
 
 ```
 
