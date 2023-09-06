@@ -16,6 +16,14 @@ This is the course book for *Philosophy 210: Contemporary Ethical Issues*. This 
 
 Below you will find information about how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
 
+[Watch: *Course Intro*](https://vimeo.com/861410545/4fe37f1488){target="_blank"}
+
+<div class="video-container">
+
+<iframe src="https://player.vimeo.com/video/861410545?h=4fe37f1488&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Phil 210 Paul Intro"></iframe>
+
+</div>
+
 ## Course Notes{-}
 
 You should be reading this information in the context of a Trinity Western University course offered via Moodle. If this is not the case, then this may be an unauthorized reproduction of the course. Please contact elearning@twu.ca if you have concerns.
