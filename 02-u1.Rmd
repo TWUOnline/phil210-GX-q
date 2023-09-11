@@ -30,7 +30,7 @@ For example, have you ever wondered why there seem to be different moral views a
 
 Understanding these terms will allow us to reflect on them to see where we stand on the issues they raise. Once that process is underway, we’ll be ready to think clearly about the specific moral questions we will encounter in this course and in life. It will be a rewarding and useful journey.
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
@@ -41,7 +41,7 @@ This unit is divided into the following topics:
 5.	Moral Objectivism vs. Subjectivism
 6.	Free Will and Moral Responsibility    
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -51,7 +51,7 @@ When you have completed this unit, you should be able to:
 - Take a position on the issue of cultural relativism, however tentatively, and articulate both the strongest arguments for and some key objections to it.
 - Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
@@ -61,11 +61,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
