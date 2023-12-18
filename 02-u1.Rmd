@@ -34,12 +34,12 @@ Understanding these terms will allow us to reflect on them to see where we stand
 
 This unit is divided into the following topics:
 
-1.	Developing a Moral Outlook
-2.	Moral Reasoning
-3.	Cultural Relativism
-4.	Moral Nihilism
-5.	Moral Objectivism vs. Subjectivism
-6.	Free Will and Moral Responsibility    
+1. Developing a Moral Outlook  
+2. Moral Reasoning  
+3. Cultural Relativism  
+4. Moral Nihilism  
+5. Moral Objectivism vs. Subjectivism  
+6. Free Will and Moral Responsibility  
 
 ### Learning Outcomes {-}
 
@@ -69,9 +69,8 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, 2018.
-
-- Other online resources will be provided in the unit.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, 2018.  
+- Other online resources will be provided in the unit.  
 
 ## Developing a Moral Outlook
 
