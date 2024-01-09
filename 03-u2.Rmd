@@ -161,7 +161,7 @@ One thing to remember is that when it comes to answering the question, ‘Why be
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Reflective Journal (30%)</span>
+<span class="blockhead">Reflective Journal </span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries. This is important for many reasons, including helping you to brainstorm ideas, as well as ponder and process what you are learning. Your journal will record your reflections on the key issues addressed in the course text readings for Units 1 & 2. You should consider your journal as a place to try out new ideas, test your assumptions, and respond to the prompts in the course units so far.
 

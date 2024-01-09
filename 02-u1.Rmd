@@ -1,4 +1,4 @@
-# Foundational Moral Concepts & the Nature of Moral Inquiry. 
+# Foundational Moral Concepts & the Nature of Moral Inquiry
 
 ## Overview {-}
 
@@ -72,7 +72,7 @@ Here are the resources you will need to complete this unit.
 - Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, 2018.  
 - Other online resources will be provided in the unit.  
 
-## Developing a Moral Outlook
+## Developing a Moral Outlook 
 
 Moral ideas and teachings are not really new to any of us, whether we have ever taken a course in ethics or not. We have all been taught from our earliest days to obey our parents, respect our elders, be kind to children, and a host of other moral instructions. In other words, ethics have been part of our lives from the beginning.
 
@@ -111,7 +111,7 @@ In this second video, Hank explains three forms of moral realism – moral absol
 
 ```
 
-## Moral Reasoning
+## Moral Reasoning 
 
 What is moral reasoning or moral discourse? We are involved in moral reasoning when we engage in a thinking process about what we ought to do in specific situations. This will mean following a thoughtful procedure for sorting through moral questions with the goal of discovering correct moral action. But how does one do this?
 
@@ -384,7 +384,7 @@ In this unit we will turn our attention to a number of foundational terms and co
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Reflective Journal (30%)</span>
+<span class="blockhead">Reflective Journal </span>
 
 Throughout this course, you will be invited to write about what you are learning in a Reflective Journal. You should consider your journal as a place for you to try out new ideas, to test your assumptions, and possibly share what you are learning with your community. You are welcome to include ideas gleaned from conversations with faculty or peers, and from your own life experiences.
 

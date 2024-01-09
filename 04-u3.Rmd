@@ -155,7 +155,7 @@ In this unit we are turning our attention to the ethics of free speech and expre
 ```{block2, type='assessment'}
 
 <details>
-<summary><b>**GX Live: Ethics Committee Responses(30%)**</b> - Click here to expand</summary>
+<summary><b>**GX Live: Ethics Committee Responses**</b> - Click here to expand</summary>
 <p>Form small groups (4-5 members) and act as an Ethics Committee, meeting twice during the course to address ethical issues and create two Ethics Committee Responses. Each group will collaborate to produce a single report following a specific structure.
 
 *See the Assessments section for more details on submitting your Ethics Video, as well as the grading criteria.*</p>

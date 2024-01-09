@@ -201,7 +201,7 @@ In this unit we will be addressing a harsh and disquieting topic, namely torture
 ```{block2, type='assessment'}
 
 <details>
-<summary><b>**GX Live: Partner Project Presentation (40%)**</b> - Click here to expand</summary>
+<summary><b>**GX Live: Partner Project Presentation**</b> - Click here to expand</summary>
 <p>For this presentation, you and one other student will prepare a 10–12-minute video in which you will address one of the ethical issues covered in the course. Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length.
 
 The Partner Project will be presented on Unit 5 & 6 in the lab session
@@ -212,7 +212,7 @@ The Partner Project will be presented on Unit 5 & 6 in the lab session
 ---
 
 <details>
-<summary><b>**GX Prime: Project Presentation (40%)**</b> - Click here to expand</summary>
+<summary><b>**GX Prime: Project Presentation**</b> - Click here to expand</summary>
 <p>Start working on your Project presentation. For this presentation, you will prepare a 10–12-minute video in which you will address one of the following two issues: Animal rights or torture & terrorism. Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length. Also note that your research for the presentation must include sources which are not Christian or supportive of your position.
 
 Your Project Presentation should be submitted on Moodle by the end of the week 6.
