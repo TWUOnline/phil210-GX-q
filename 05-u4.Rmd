@@ -189,24 +189,9 @@ In this unit we will be addressing the sensitive topic of date rape and the infl
 
 ```{block2, type='assessment'}
 
-<details>
-<summary><b>**GX Live: Ethics Committee Responses**</b> - Click here to expand</summary>
-<p>Form small groups (4-5 members) and act as an Ethics Committee, meeting twice during the course to address ethical issues and create two Ethics Committee Responses. Each group will collaborate to produce a single report following a specific structure.
+<span class="blockhead">Ethics Video</span>
 
-*See the Assessments section for more details on submitting your Ethics Video, as well as the grading criteria.*</p>
-</details>
-
----
-
-<details>
-<summary><b>**GX Prime: Ethics Video**</b> - Click here to expand</summary>
-<p>For this assignment, you’ll create a 2-minute video articulating a moral viewpoint on one of the following issues: free speech or sexual morality (Units 3-4 topics). You should draw upon the readings from Units 3 and 4 to support your stance and make a concise case for your chosen viewpoint.
-
-Your Ethics Video should be submitted on Moodle by the end of the week 4.
-
-*See the Assessments (Prime) section for more details on submitting your Ethics Video, as well as the grading criteria.*</p>
-</details>
-
+*See the Assessments section for more details on submitting your Ethics Video, as well as the grading criteria.*
 
 ```
 

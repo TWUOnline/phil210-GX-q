@@ -1,4 +1,4 @@
-# Animal Rights. 
+# Animal Rights  
 
 ## Overview {-}
 
@@ -271,26 +271,9 @@ In this unit, we’ll be turning our attention to animal rights, an issue which 
 
 ```{block2, type='assessment'}
 
-<details>
-<summary><b>**GX Live: Partner Project Presentation**</b> - Click here to expand</summary>
-<p>For this presentation, you and one other student will prepare a 10–12-minute video in which you will address one of the ethical issues covered in the course. Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length.
+<span class="blockhead">Course Reflection Essay/Video Assignment</span>
 
-The Partner Project will be presented on Unit 5 & 6 in the lab session
-
-*See the Assessments section for more details on submitting your Partner Project Presentation, as well as the grading criteria*</p>
-</details>
-
----
-
-<details>
-<summary><b>**GX Prime: Project Presentation**</b> - Click here to expand</summary>
-<p>Start working on your Project presentation. For this presentation, you will prepare a 10–12-minute video in which you will address one of the following two issues: Animal rights or torture & terrorism. Please note that this is an argumentative project and not simply a discussion project. Your presentation should be 12-15 minutes in length. Also note that your research for the presentation must include sources which are not Christian or supportive of your position.
-
-Your Project Presentation should be submitted on Moodle by the end of the week 6.
-
-*See the Assessments section for more details on submitting your Project Presentation, as well as the grading criteria.*</p>
-</details>
-
+*See the Assessments section for more details on submitting your Course Reflection Essay/Video Assignment, as well as the grading criteria*
 
 ```
 
