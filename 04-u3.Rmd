@@ -154,9 +154,9 @@ In this unit we are turning our attention to the ethics of free speech and expre
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Ethics Video</span>
+<span class="blockhead">Ethics Committee Response</span>
 
-*See the Assessments section for more details on submitting your Ethics Video, as well as the grading criteria.*
+*See the Assessments section for more details on submitting your Ethics Committee Response, as well as the grading criteria.*
 
 ```
 
