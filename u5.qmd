@@ -79,21 +79,23 @@ Read the introductory section on animal rights (p. 426-27) and the section by Im
 
 Next, choose from the following videos to learn more about key terms from this topic.
 
-[Watch: *Non-Human Animals: Crash Course Philosophy #42*](https://www.youtube.com/watch?v=y3-BX-jN_Ac){target="_blank"}.
+[Watch: *Non-Human Animals: Crash Course Philosophy*](https://www.youtube.com/watch?v=y3-BX-jN_Ac){target="_blank"}.
 
 In this video, you will explore what philosophers like Peter Singer and Carl Cohen have to say about applying philosophy to moral considerations regarding non-human animals, including the concept of equal consideration of interests.
 
-[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank"} <!-- Auto title, auto embed--> 
+{{< video https://www.youtube-nocookie.com/embed/y3-BX-jN_Ac?si=f2RdHI4pG72Cj3-C >}}
 
-{{< video https://www.youtube-nocookie.com/embed/fGoWLWS4-kU >}}
+[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank"} <!-- Auto title, auto embed--> 
 
 In this video, Bryan B Rasmussen navigates through the controversial question: Do animals think?. He shows how determining intelligence often says more about how humans think than about anything else.
 
+{{< video https://www.youtube-nocookie.com/embed/fGoWLWS4-kU >}}
+
 [Watch: *What animals are thinking and feeling, and why it should matter | Carl Safina | TEDxMidAtlantic*](https://www.youtube.com/watch?v=-wkdH_wluhw){target="_blank"} <!-- Auto title, auto embed--> 
 
-{{< video https://www.youtube-nocookie.com/embed/-wkdH_wluhw >}}
-
 In this video, Carl Safina takes us inside the lives and minds of animals around the world, witnessing their profound capacity for perception, thought and emotion, showing why the word "it" is often inappropriate as we discover "who" they really are. And yet, we are wiping out the very animals we should celebrate; we are the flood coming for Noah's Ark. Carl leaves us with a difficult question: Do we have what it takes to let life on earth survive?
+
+{{< video https://www.youtube-nocookie.com/embed/-wkdH_wluhw >}}
 
 :::
 
@@ -111,9 +113,9 @@ Next, choose from the following videos to learn more about key terms from this t
 
 [Watch: *Personhood: Crash Course Philosophy #21*](https://www.youtube.com/watch?v=GxM9BZeRrUI){target="_blank"} <!-- Auto title, auto embed--> 
 
-{{< video https://www.youtube-nocookie.com/embed/GxM9BZeRrUI >}}
-
 In this video, Hank tackles the question of personhood. The way we answer this question informs all sorts of things about the way we move about the world, including our views on some of our greatest social debates.
+
+{{< video https://www.youtube-nocookie.com/embed/GxM9BZeRrUI >}}
 
 [Watch: *Defining Speciesism with Peter Singer*](https://www.youtube.com/watch?v=k57F49ymmQg){target="_blank"}.
 
@@ -121,9 +123,9 @@ In this video, Hank tackles the question of personhood. The way we answer this q
 
 [Watch: *Peter Singer - Non-Human Animal Ethics - EA Global Melbourne 2015*](https://www.youtube.com/watch?v=TgRoZVT6kYc){target="_blank"} <!-- Auto title, auto embed--> 
 
-{{< video https://www.youtube-nocookie.com/embed/TgRoZVT6kYc >}}
-
 In this video, Peter Singer discusses the moral value of non-human animals from Judaism & Christianity to Aristotle to Bentham. Singer highlights Benthan's view that the capacity for suffering/joy is the vital characteristic that entitles a being to moral consideration. He also discusses why we should take non-human animal suffering seriously and what we can do to alleviate the suffering of non-human animals.
+
+{{< video https://www.youtube-nocookie.com/embed/TgRoZVT6kYc >}}
 
 :::
 
@@ -187,7 +189,7 @@ There are many sci-fi movies and shows that play with the idea of the personhood
 
 Watch the following video to learn more about if AI has rights.where Hank explores artificial intelligence, including weak AI and strong AI, and the various ways that thinkers have tried to define strong AI.
 
-[Watch: *Artificial Intelligence & Personhood: Crash Course Philosophy #23*](https://www.youtube.com/watch?v=39EdqUbj92U){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Artificial Intelligence & Personhood: Crash Course Philosophy*](https://www.youtube.com/watch?v=39EdqUbj92U){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/39EdqUbj92U >}}
 

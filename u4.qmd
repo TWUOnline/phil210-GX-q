@@ -104,9 +104,9 @@ Next, watch the following videos to learn more about key terms from this topic.
 
 [Watch: *Washington Post-Kaiser poll*](https://www.washingtonpost.com/video/national/college-students-define-sexual-consent/2015/06/12/2c06cd5e-114a-11e5-a0fe-dccfea4653ee_video.html){target="_blank"}
 
-::: video-container
+::: {.video-container}
 
-<iframe width='480' height='290' scrolling='no' src='https://www.washingtonpost.com/video/c/embed/2c06cd5e-114a-11e5-a0fe-dccfea4653ee' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" scrolling='no' src='https://www.washingtonpost.com/video/c/embed/2c06cd5e-114a-11e5-a0fe-dccfea4653ee' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 :::
 
