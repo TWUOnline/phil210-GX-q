@@ -1,6 +1,6 @@
 # Why be Moral?
 
-## Overview {-}
+## Overview {.unnumbered}
 
 Welcome to Unit 2!
 
@@ -30,14 +30,14 @@ Last, we’ll be introduced to the famous story of the Ring of Gyges, told by th
 
 Let’s plunge in. Why be moral?
 
-### Topics {-}
+### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
 1. Egoism & Self-interest Morality
 2. Social Contract Morality
 
-### Learning Outcomes {-}
+### Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:
 
@@ -45,25 +45,29 @@ When you have completed this unit, you should be able to:
 - Discuss knowledgeably Plato’s famous story of the Ring of Gyges.
 - Discuss whether people would do what is right, even if no one would find out.
 
-### Activity Checklist {-}
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work. 
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-- Read Chapter 6 and 7 of “An Introduction to Moral Philosophy” by Jonathan Wolff.  Watch the videos related to the topics.
+- Read Chapter 6 and 7 of “An Introduction to Moral Philosophy” by Jonathan Wolff. Watch the videos related to the topics.
 - Read and analyze the case study presented.
 - Take the ungraded quiz to review important concepts.
 
-*Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
+::: {.note icon="true"}
 
-### Assessment {-}
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+### Assessment {.unnumbered}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
-### Resources {-}
+### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018. 
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
 - Other online resources will be provided in the unit.
 
 ## Egoism
@@ -80,39 +84,29 @@ A different form of ethical egoism, however, holds that it is morally right to a
 
 As we read the chapter on egoism in the Wolff text, think carefully about the implications this theory, if true, would have for our question, why be moral.
 
-### Activity: Read, View and Reflect {-}
+### Activity: Read, View and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
-Read Chapter 6 on Egoism of your textbook “*An Introduction to Moral Philosophy*” by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course. 
+Read Chapter 6 on Egoism of your textbook “*An Introduction to Moral Philosophy*” by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course.
 
+Next, [Watch: *What is Egoism? (Philosophical Positions)*](https://www.youtube.com/watch?v=jpHggd-3_rM){target="_blank"} which illustrates various types of egoism:
 
-Next, [Watch: *What is Egoism? (Philosophical Positions)*](https://www.youtube.com/watch?v=jpHggd-3_rM){target="_blank”} which illustrates various types of egoism:
+{{< video https://www.youtube-nocookie.com/embed/jpHggd-3_rM?si=vu97Z3d4v4ZNUpZT >}}
 
-<div class="video-container">
+:::
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpHggd-3_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Activity: Read, View and Reflect
 
-</div>
-
-```
-
-### Activity: Read, View and Reflect {-}
-
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 Read the following case study and answer the questions in your learning journal:
 
-<div id="demobox">
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-*You are out for a walk in the park when you suddenly spot a wallet lying in the grass. Someone has lost it. Upon opening it, you find the I.D. of the owner and contact information; it is someone of whom you have never heard.  You also find a substantial amount of cash. You have a number of options: leave the wallet alone and continue walking, mail it back to the owner with all its contents inside, or pocket the cash and either mail the wallet back or leave it on the grass.  If you take the cash, no one will ever know. You think back to your ethics course and realize there are a number of perspectives on your situation..*
-</div>
----
+*You are out for a walk in the park when you suddenly spot a wallet lying in the grass. Someone has lost it. Upon opening it, you find the I.D. of the owner and contact information; it is someone of whom you have never heard. You also find a substantial amount of cash. You have a number of options: leave the wallet alone and continue walking, mail it back to the owner with all its contents inside, or pocket the cash and either mail the wallet back or leave it on the grass. If you take the cash, no one will ever know. You think back to your ethics course and realize there are a number of perspectives on your situation..* 
 
+For this case study, how would a psychological egoist, an ethical egoist, and an advocate of self-interest morality answer the following question: should you pocket the cash? Explain why they would each answer as they do.
 
-For this case study, how would a psychological egoist, an ethical egoist, and an advocate of self-interest morality answer the following question: should you pocket the cash?  Explain why they would each answer as they do.
-
-```
+:::
 
 ## Social Contract Morality
 
@@ -120,56 +114,37 @@ The second topic related to our question, why be moral, could hardly be more dif
 
 We’ve seen the difference between the social contract theory and the previous egoistic ones but can you also see a fundamental similarity between them? This theory also teaches that the reason we should be moral is that it is in our best interest to do so. As you read the section in the course text on The Social Contract, reflect further on this similarity and also on whether it provides an adequate basis for us to be moral. What problems or questions does it raise?
 
-### Activity: Read, Watch and Reflect {-}
+### Activity: Read, Watch and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
-Read Chapter 7 of  your textbook *“An Introduction to Moral Philosophy,”* by Jonathan Wolff. Take notes on key terms and concepts.
+Read Chapter 7 of your textbook *“An Introduction to Moral Philosophy,”* by Jonathan Wolff. Take notes on key terms and concepts.
 
-Next, watch the following video to get a better understanding of social contract morality. In this video Hank explains Hobbes’ state of nature, implicit and explicit contracts, as well as the Prisoner’s Dilemma, and the benefits, and costs, of violating contracts. 
+Next, watch the following video to get a better understanding of social contract morality. In this video Hank explains Hobbes’ state of nature, implicit and explicit contracts, as well as the Prisoner’s Dilemma, and the benefits, and costs, of violating contracts.
 
-[Watch: *Contractarianism: Crash Course Philosophy #37*](https://www.youtube.com/watch?v=2Co6pNvd9mc){target="_blank”}
+[Watch: *Contractarianism: Crash Course Philosophy #37*](https://www.youtube.com/watch?v=2Co6pNvd9mc){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
+{{< video https://www.youtube-nocookie.com/embed/2Co6pNvd9mc >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Co6pNvd9mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
 
-</div>
+### Activity: Key Terms Quiz (ungraded)
 
-```
-
-### Activity: Key Terms Quiz (ungraded) {-}
-
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course. Match the following terms to their correct definition.
 
-
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=6" width="648" height="618" frameborder="0" allowfullscreen="allowfullscreen" title="Phil210-Act3.4"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+:::
 
-```
+## Summary {.unnumbered}
 
-## Unit 2 Summary {-}
-
-In this unit we’ll be exploring the basis of our moral obligation. When we raise this issue, we are raising one of the most foundational and difficult questions involved in the study of ethics: why should anyone be moral?   This question has been the subject of intense debate for thousands of years. In this unit, we’ll take a short journey down a fascinating trail of case studies, secondary questions, new terms, and different answers to the main question which have been tried out. We’ll come across terms like **Social Contract morality, psychological egoism** and **ethical egoism.**
+In this unit we’ll be exploring the basis of our moral obligation. When we raise this issue, we are raising one of the most foundational and difficult questions involved in the study of ethics: why should anyone be moral? This question has been the subject of intense debate for thousands of years. In this unit, we’ll take a short journey down a fascinating trail of case studies, secondary questions, new terms, and different answers to the main question which have been tried out. We’ll come across terms like **Social Contract morality, psychological egoism** and **ethical egoism.**
 
 One thing to remember is that when it comes to answering the question, ‘Why be moral?’ one answer we cannot give is, “because it’s the right thing to do,” since, when we ask, why be moral, we are asking precisely why we should care about doing the right thing. How, then, can we answer it?
 
-
-## Assessment {-}
-
-```{block2, type='assessment'}
-
-<span class="blockhead">Reflective Journal </span>
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
-```
-
-## Checking your Learning {-}
-
-```{block2, type='progress'}
+::: {.check}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
@@ -177,4 +152,18 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Discuss knowledgeably Plato’s famous story of the Ring of Gyges.
 - Discuss whether people would do what is right, even if no one would find out.
 
-```
+:::
+
+<!-- ## Assessment {.unnumbered}
+
+::: {.note}
+
+**Reflective Journal **
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+:::-->
+
+
+
+

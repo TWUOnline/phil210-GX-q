@@ -1,16 +1,10 @@
 # Foundational Moral Concepts & the Nature of Moral Inquiry
 
-## Overview {-}
+## Overview {.unnumbered}
 
-[Watch: *Phil 210 Framing*](https://vimeo.com/861713419/4d5e72685d){target="_blank”}
+[Watch: *Phil 210 Framing*](https://vimeo.com/861713419/4d5e72685d){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
-
-<iframe src="https://player.vimeo.com/video/861713419?h=4d5e72685d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Phil 210 Framing"></iframe>
-
-</div>
-
----
+{{< video https://vimeo.com/861713419/4d5e72685d >}}
 
 Welcome to Unit 1 of *Ethical Issues,* Philosophy 210. When was the last time you had a free and open discussion with a group of friends about the issues of abortion, world hunger, animal rights, sexual morality, capital punishment, war and peace, or proper treatment of the environment? We often tend to avoid topics like these to keep the peace in polite company.
 
@@ -30,18 +24,18 @@ For example, have you ever wondered why there seem to be different moral views a
 
 Understanding these terms will allow us to reflect on them to see where we stand on the issues they raise. Once that process is underway, we’ll be ready to think clearly about the specific moral questions we will encounter in this course and in life. It will be a rewarding and useful journey.
 
-### Topics {-}
+### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
-1. Developing a Moral Outlook  
-2. Moral Reasoning  
-3. Cultural Relativism  
-4. Moral Nihilism  
-5. Moral Objectivism vs. Subjectivism  
-6. Free Will and Moral Responsibility  
+1. Developing a Moral Outlook
+2. Moral Reasoning
+3. Cultural Relativism
+4. Moral Nihilism
+5. Moral Objectivism vs. Subjectivism
+6. Free Will and Moral Responsibility
 
-### Learning Outcomes {-}
+### Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:
 
@@ -51,28 +45,32 @@ When you have completed this unit, you should be able to:
 - Take a position on the issue of cultural relativism, however tentatively, and articulate both the strongest arguments for and some key objections to it.
 - Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.
 
-### Activity Checklist {-}
+### Learning Activities {.unnumbered}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 - Read Chapters 1 to 4 of *“An Introduction to Moral Philosophy”* by Jonathan Wolff. Watch the videos related to the topics.
-- Read and analyze the thought experiment on page 14  of “An Introduction to Moral Philosophy” by Jonathan Wolff.
+- Read and analyze the thought experiment on page 14 of “An Introduction to Moral Philosophy” by Jonathan Wolff.
 - Take the ungraded quiz to review important concepts.
 
-*Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments.*
+::: {.note icon="true"}
 
-### Assessment {-}
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+### Assessment {.unnumbered}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
-### Resources {-}
+### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, 2018.  
-- Other online resources will be provided in the unit.  
+- Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, 2018.
+- Other online resources will be provided in the unit.
 
-## Developing a Moral Outlook 
+## Developing a Moral Outlook
 
 Moral ideas and teachings are not really new to any of us, whether we have ever taken a course in ethics or not. We have all been taught from our earliest days to obey our parents, respect our elders, be kind to children, and a host of other moral instructions. In other words, ethics have been part of our lives from the beginning.
 
@@ -82,62 +80,53 @@ When someone tells you that stealing your colleague’s wallet was wrong and you
 
 One key area of study involved in developing a moral outlook is meta-ethics, which involves foundational questions of the nature of morality, how we know moral rules, etc. Another is normative ethics which is the study of what we are morally obligated to do. A third is applied ethics which moves one into the analysis of specific moral questions. In this topic, it will be important to understand the differences between these terms.
 
-### Activity: Read, View and Reflect  {-}
+### Activity: Read, View and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
-In the first activity, you are asked to read pages 1-7 of your textbook *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course. 
-Next, watch the following videos to learn more about the key terms from this section. This first video starts with an overview of philosophical reasoning and breakdown of how deductive arguments work (and sometimes don’t work).
+In the first activity, you are asked to read pages 1-7 of your textbook *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course. Next, watch the following videos to learn more about the key terms from this section. This first video starts with an overview of philosophical reasoning and breakdown of how deductive arguments work (and sometimes don’t work).
 
-[Watch: *How to Argue - Philosophical Reasoning: Crash Course Philosophy #2*](https://www.youtube.com/watch?v=NKEhdsnKKHs){target="_blank”}
+[Watch: *How to Argue - Philosophical Reasoning: Crash Course Philosophy #2*](https://www.youtube.com/watch?v=NKEhdsnKKHs){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NKEhdsnKKHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
----
+{{< video https://www.youtube-nocookie.com/embed/NKEhdsnKKHs >}}
 
 In this second video, Hank explains three forms of moral realism – moral absolutism, and cultural relativism, including the difference between descriptive and normative cultural relativism – and moral subjectivism, which is a form of moral antirealism. Finally, he introduces the concept of an ethical theory.
 
-[Watch: *Metaethics: Crash Course Philosophy #32*](https://www.youtube.com/watch?v=FOoffXFpAlU){target="_blank”}
+[Watch: *Metaethics: Crash Course Philosophy #32*](https://www.youtube.com/watch?v=FOoffXFpAlU){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
+{{< video https://www.youtube-nocookie.com/embed/FOoffXFpAlU >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FOoffXFpAlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
 
-</div>
-
-```
-
-## Moral Reasoning 
+## Moral Reasoning
 
 What is moral reasoning or moral discourse? We are involved in moral reasoning when we engage in a thinking process about what we ought to do in specific situations. This will mean following a thoughtful procedure for sorting through moral questions with the goal of discovering correct moral action. But how does one do this?
 
-One suggested method is the following: 
+One suggested method is the following:
 
-<details>
-  <summary><b>**Step one:**</b> - Click here to expand</summary>
-  <p>Identify the precise foundational moral question needing to be resolved. For example, in the debate over the moral permissibility of abortion on demand, the foundational moral question concerns the nature and moral status of the unborn human being. Does it have the same status or value as a 3-year old child or that of a growth which needs to be removed? If this question were resolved and agreed upon by most people, there would be little left to argue about on this question. Admittedly, this is a difficult question but that is often the case in ethics. It’s why we call them moral dilemmas. The point of identifying the key foundational question/s for each issue is that, then, at least we are thinking about the right questions and not wasting our time on others</p>
-</details>
+::: {.accordion title="<b>Step one:</b> - Click here to expand"}
 
-<details>
-  <summary><b>**Step two:**</b> - Click here to expand</summary>
-  <p>State the main answers to this question. This will involve accurately stating the main competing views on this moral question, both the ones we agree with and the ones we do not.</p>
-</details>
+Identify the precise foundational moral question needing to be resolved. For example, in the debate over the moral permissibility of abortion on demand, the foundational moral question concerns the nature and moral status of the unborn human being. Does it have the same status or value as a 3-year old child or that of a growth which needs to be removed? If this question were resolved and agreed upon by most people, there would be little left to argue about on this question. Admittedly, this is a difficult question but that is often the case in ethics. It’s why we call them moral dilemmas. The point of identifying the key foundational question/s for each issue is that, then, at least we are thinking about the right questions and not wasting our time on others
 
-<details>
-  <summary><b>**Step three:**</b> - Click here to expand</summary>
-  <p>Discover the best arguments or reasons given for each of these answers. The goal is to understand the supporting rationale for each of these positions as well as the people who believe them.</p>
-</details>
+:::
 
-<details>
-  <summary><b>**Step four:**</b> - Click here to expand</summary>
-  <p>Evaluate and assess these arguments with the goal of drawing a conclusion of your own concerning which answer is the best one. Normally the way to do step four well is to have done step three carefully. Reading the arguments for one view provides the most helpful material needed to evaluate both it and the opposing views.</p>
-</details>
+::: {.accordion title="<b>Step two:</b> - Click here to expand"}
 
----
+State the main answers to this question. This will involve accurately stating the main competing views on this moral question, both the ones we agree with and the ones we do not.
+
+:::
+
+::: {.accordion title="<b>Step three:</b> - Click here to expand"}
+
+Discover the best arguments or reasons given for each of these answers. The goal is to understand the supporting rationale for each of these positions as well as the people who believe them.
+
+:::
+
+::: {.accordion title="<b>Step four:</b> - Click here to expand"}
+
+Evaluate and assess these arguments with the goal of drawing a conclusion of your own concerning which answer is the best one. Normally the way to do step four well is to have done step three carefully. Reading the arguments for one view provides the most helpful material needed to evaluate both it and the opposing views.
+
+:::
 
 In the end, you will find that proper moral reasoning involves applying general moral principles such as the principles of love, justice, human dignity, honesty, etc., to specific moral questions in order to see what these principles tell us about the correct course of action.
 
@@ -145,29 +134,27 @@ Of course, moral reasoning needs to be done with great care. In the text reading
 
 Some other terms are **argument by analogy, argument to the best explanation, moral intuitions, universalization** and the **fact/value distinction.** Our text will explain them and we will have an opportunity to think through their importance for careful reasoning with our class colleagues.
 
-### Activity: Read, Watch and Analyze  {-}
+### Activity: Read, Watch and Analyze
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 Watch the following video to get a better understanding of key terms for this topic.
 
-[Watch: *Moral Reasoning | Ethics Defined*](https://www.youtube.com/watch?v=h_sufC5nY18){target="_blank”}
+[Watch: *Moral Reasoning | Ethics Defined*](https://www.youtube.com/watch?v=h_sufC5nY18){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_sufC5nY18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
----
+{{< video https://www.youtube-nocookie.com/embed/h_sufC5nY18 >}}
 
 Next, read the rest of Chapter 1 (pages 7-17) of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. Take notes on key terms and concepts.
 
 Read the thought experiment posed by philosopher, Philippa Foot, on page 14. Consider how you might answer the question posed by this thought experiment and why you would answer this way. What ethical issues arise?
 
+::: note
+
 *Note that this is an ungraded activity, but you are encouraged to write your answers in your notes. You may be asked to review this case or similar cases in your discussion groups. This practice of analyzing a case, contemplating various perspectives, and presenting an argument will help you in your assessments for this course.*
 
-```
+:::
+
+:::
 
 ## Cultural Relativism
 
@@ -177,45 +164,29 @@ This topic will introduce us to one of the most perplexing questions about moral
 
 In chapter 2 of the Wolff Introduction text, we will come across a number of different kinds of relativism and will have the opportunity to learn some arguments often made in favour of cultural relativism along with a number of serious problems with it.
 
-### Activity: Read, Watch and Reflect {-}
+### Activity: Read, Watch and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 Read chapter 2 of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. Take notes on key terms and concepts. Next, choose from the following videos to get a better understanding of key terms for this topic.
 
-[Watch: *All is Not Relative | Concepts Unwrapped*](https://www.youtube.com/watch?v=Z11v2nWsgGA){target="_blank”}
+[Watch: *All is Not Relative | Concepts Unwrapped*](https://www.youtube.com/watch?v=Z11v2nWsgGA){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
+{{< video https://www.youtube-nocookie.com/embed/Z11v2nWsgGA >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z11v2nWsgGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Watch: *R&E Ethics: Absolutism vs Relativism*](https://www.youtube.com/watch?v=DxhsYTlBNG8){target="_blank"} <!-- Auto title, auto embed--> 
 
-</div>
+{{< video https://www.youtube-nocookie.com/embed/DxhsYTlBNG8 >}}
 
----
+[Watch: *Ayn Rand - Her Philosophy in Two Minutes*](https://www.youtube.com/watch?v=asery3UeBj4){target="_blank"} <!-- Auto title, auto embed--> 
 
-[Watch: *R&E Ethics: 02 Absolutism vs Relativism*](https://www.youtube.com/watch?v=DxhsYTlBNG8){target="_blank”}
+{{< video https://www.youtube-nocookie.com/embed/asery3UeBj4 >}}
 
-<div class="video-container">
+:::
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxhsYTlBNG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Activity: Key Terms Quiz (ungraded)
 
-</div>
-
----
-
-[Watch: *Ayn Rand - Her Philosophy in Two Minutes*](https://www.youtube.com/watch?v=asery3UeBj4){target="_blank”}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/asery3UeBj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-```
-
-### Activity: Key Terms Quiz (ungraded) {-}
-
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
@@ -223,7 +194,7 @@ Click on the activity link below to practice defining terms used in this unit.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="648" height="1285" frameborder="0" allowfullscreen="allowfullscreen" title="Drag the key terms into the correct boxes to complete the definition."></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-```
+:::
 
 ## Moral Nihilism
 
@@ -235,35 +206,23 @@ How, then, does a moral nihilist view the moral rules or traditions of any given
 
 Does anyone really embrace moral nihilism? Why would they? For this topic, read the Wolff Introduction text to gain a fuller understanding of this view. See if you can figure out one or two reasons for holding this view.
 
-### Activity: Read, Watch and Reflect {-}
+### Activity: Read, Watch and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 Read the first part of Chapter 3 (pages 40-44) of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course.
 
 Next, watch the following short videos to learn more about the term, moral nihilism.
 
----
+[Watch: *Philosophy Lexicon: Moral Nihilism*](https://www.youtube.com/watch?v=7VwpSMgJYqA){target="_blank"} <!-- Auto title, auto embed--> 
 
-[Watch: *Philosophy Lexicon: Moral Nihilism*](https://www.youtube.com/watch?v=7VwpSMgJYqA){target="_blank”}
+{{< video https://www.youtube-nocookie.com/embed/7VwpSMgJYqA >}}
 
-<div class="video-container">
+[Watch: *Jordan Peterson on Nihilism and its Opposite - Existential Courage*](https://www.youtube.com/watch?v=R-sYDf0YGv4){target="_blank"} <!-- Auto title, auto embed--> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7VwpSMgJYqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< video https://www.youtube-nocookie.com/embed/R-sYDf0YGv4 >}}
 
-</div>
-
----
-
-[Watch: *Ayn Rand - Her Philosophy in Two MinutesJordan Peterson on Nihilism and its Opposite - Existential Courage*](https://www.youtube.com/watch?v=R-sYDf0YGv4){target="_blank”}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R-sYDf0YGv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-```
+:::
 
 ## Moral Objectivism vs. Subjectivism
 
@@ -279,64 +238,35 @@ The question could be put this way: Does objective moral value exist or is moral
 
 As you read about this topic, see if you can identify the reasons given in support of these two perspectives on the nature of our moral claims as well as some different ways they are both expressed.
 
-### Activity: Read, Watch and Reflect {-}
+### Activity: Read, Watch and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 Read the rest of Chapter 3 (pages 44-57) of An Introduction to Moral Philosophy. Study the chapter review summary, questions and key terms.
 
 Next, choose from the following videos to learn more about key terms from this chapter.
 
+[Watch: *A Critique of Error Theory*](https://www.youtube.com/watch?v=WkVR99xX5XI ){target="_blank"}
 
-[Watch: *A Critique of Error Theory*](https://www.youtube.com/watch?v=WkVR99xX5XI ){target="_blank”}
+{{< video https://www.youtube-nocookie.com/embed/WkVR99xX5XI?si=01JgPO9kXcKAKezh >}}
 
-<div class="video-container">
+[Watch: *Moral Skepticism - Error Theory (J.L Mackie)*](https://www.youtube.com/watch?v=ycfRRJAkJLA){target="_blank"} <!-- Auto title, auto embed--> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WkVR99xX5XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< video https://www.youtube-nocookie.com/embed/ycfRRJAkJLA >}}
 
-</div>
+[Watch: *Ethical Subjectivism*](https://www.youtube.com/watch?v=7E3_kVg4sbY){target="_blank"} <!-- Auto title, auto embed--> 
 
----
+{{< video https://www.youtube-nocookie.com/embed/7E3_kVg4sbY >}}
 
-[Watch: *Moral Skepticism - Error Theory (J.L Mackie)*](https://www.youtube.com/watch?v=ycfRRJAkJLA){target="_blank”}
+[Watch: *Objective vs Subjective (Philosophical Distinction)*](https://www.youtube.com/watch?v=jlutlCrVQN4){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
+{{< video https://www.youtube-nocookie.com/embed/jlutlCrVQN4 >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ycfRRJAkJLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Watch: *Subjectivism*](https://www.youtube.com/watch?v=UMUy9WX6sRQ){target="_blank"} <!-- Auto title, auto embed--> 
 
-</div>
+{{< video https://www.youtube-nocookie.com/embed/UMUy9WX6sRQ >}}
 
----
-
-[Watch: *Ethical Subjectivism*](https://www.youtube.com/watch?v=7E3_kVg4sbY){target="_blank”}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7E3_kVg4sbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
----
-
-[Watch: *Objective vs Subjective (Philosophical Distinction)*](https://www.youtube.com/watch?v=jlutlCrVQN4){target="_blank”}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jlutlCrVQN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
----
-
-[Watch: *Subjectivism*](https://www.youtube.com/watch?v=UMUy9WX6sRQ){target="_blank”}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UMUy9WX6sRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-```
+:::
 
 ## Free Will and Moral Responsibility
 
@@ -348,51 +278,29 @@ If determinism is true, it would be hard to see how we could properly be held re
 
 So then, does one need to be a libertarian to believe in moral responsibility or any meaningful morality? We might think so but a theory called **compatibilism** holds that there is a way one can both be a determinist and at the same time believe we are morally responsible for our actions. How can one believe both?
 
-### Activity: Read, Watch and Reflect {-}
+### Activity: Read, Watch and Reflect
 
-```{block2, type='reflect'}
+::: {.learning-activity}
 
 Read Chapter 4 (pages 58-69) of *An Introduction to Moral Philosophy.* As you read this chapter, ask yourself if our instinctive belief in free will is a sufficient basis for continuing to believe we really do act freely. Also, reflect on the reasons given for the various kinds of determinism and ask yourself whether it is possible to believe in both *determinism* and *moral responsibility.*
 
 Next, watch the following videos to learn more about key terms from this chapter.
 
-[Watch: *Do You Have Free Will?*](https://www.youtube.com/watch?v=EMdAnU3vYzA&t=2s){target="_blank”}
+[Watch: *Do You Have Free Will?*](https://www.youtube.com/watch?v=EMdAnU3vYzA&t=2s){target="_blank"} <!-- Auto title, auto embed--> 
 
-<div class="video-container">
+{{< video https://www.youtube-nocookie.com/embed/EMdAnU3vYzA >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EMdAnU3vYzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Watch: *Determinism vs Free Will: Crash Course Philosophy #24*](https://www.youtube.com/watch?v=vCGtkDzELAI){target="_blank"} <!-- Auto title, auto embed--> 
 
-</div>
+{{< video https://www.youtube-nocookie.com/embed/vCGtkDzELAI >}}
 
----
+:::
 
-[Watch: *Determinism vs Free Will: Crash Course Philosophy #24*](https://www.youtube.com/watch?v=vCGtkDzELAI){target="_blank”}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vCGtkDzELAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-```
-
-## Unit 1 Summary {-}
+## Summary {.unnumbered}
 
 In this unit we will turn our attention to a number of foundational terms and concepts involved in moral reasoning. Our goal will be to develop a moral outlook, to learn to think ethically about the moral questions we face in life. We will also explore further how to carry out moral discourse well and will examine the interesting question of why, around the world, people do not always appear to have the same moral outlook.
 
-## Assessment {-}
-
-```{block2, type='assessment'}
-
-<span class="blockhead">Reflective Journal </span>
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
-```
-
-## Checking your Learning {-}
-
-```{block2, type='progress'}
+::: {.check}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
@@ -402,8 +310,15 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Take a position on the issue of cultural relativism, however tentatively, and articulate both the strongest arguments for and some key objections to it.
 - Define key terms, such as Moral Nihilism, Moral Subjectivism, Moral Objectivism, Free Will, Determinism, and Compatibilism.
 
-```
+:::
 
+<!-- ## Assessment {.unnumbered}
 
+::: {.note}
 
+**Reflective Journal **
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+::: -->
 
