@@ -1,4 +1,4 @@
-# version 2.4
+# version 3.3
 
 project:
   type: book
@@ -22,6 +22,11 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd
+    - assignment1.qmd
+    - assignment2.qmd
+    - assignment3.qmd
+#    - course_assessment.qmd
+#    - cheatsheet.qmd
 
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
 #    - references.qmd
@@ -30,7 +35,7 @@ book:
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
-link-citations: true
+link-citations: false
 
 # Lua Filters
 filters:
@@ -66,8 +71,8 @@ format:
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
         
 # Format - PDF
-  pdf:
-    documentclass: scrreprt
+#  pdf:
+#    documentclass: scrreprt
 
 # Format - Doc
   docx:
