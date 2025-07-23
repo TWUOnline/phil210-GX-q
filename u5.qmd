@@ -41,10 +41,10 @@ When you have completed this unit, you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 - Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff.
-   - Introductory section on animal rights (p. 426-27)
-   - Immanuel Kant (p. 428-29)
-   - Animal rights by Peter Singer (p. 429-435)
-   - Animal rights by Roger Scruton (p. 436-443)
+   - Introductory section on animal rights (pp. 426-27)
+   - Immanuel Kant (pp. 428-29)
+   - Animal rights by Peter Singer (pp. 429-435)
+   - Animal rights by Roger Scruton (pp. 436-443)
 - Watch the videos related to Animal Rights.
 - Read and analyze the “Singer” Case Study
 - Read an article on AI and personhood, and watch the video related to it. Then, reflect on if AI should have rights
@@ -64,7 +64,7 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, [-@wolffIntroductionMoralPhilosophy2018].
 - Other online resources will be provided in the unit.
 
 ## Are Animals Self-Aware?
@@ -75,23 +75,23 @@ The first answer concerning animal rights that we will consider is given by the 
 
 ::: {.learning-activity}
 
-Read the introductory section on animal rights (p. 426-27) and the section by Immanuel Kant (p. 428-29) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
+Read the introductory section on animal rights (pp. 426-27) and the section by Immanuel Kant (pp. 428-29) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
 
 Next, choose from the following videos to learn more about key terms from this topic.
 
-[Watch: *Non-Human Animals: Crash Course Philosophy*](https://www.youtube.com/watch?v=y3-BX-jN_Ac){target="_blank"}.
+[Watch: *Non-Human Animals: Crash Course Philosophy*](https://www.youtube.com/watch?v=y3-BX-jN_Ac){target="_blank"} [-@crashcourseNonhumanAnimalsCrash2017].
 
 In this video, you will explore what philosophers like Peter Singer and Carl Cohen have to say about applying philosophy to moral considerations regarding non-human animals, including the concept of equal consideration of interests.
 
 {{< video https://www.youtube-nocookie.com/embed/y3-BX-jN_Ac?si=f2RdHI4pG72Cj3-C >}}
 
-[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank"} [-@blueseatstudiosTeaConsentClean2015] <!-- Auto title, auto embed--> 
 
 In this video, Bryan B Rasmussen navigates through the controversial question: Do animals think?. He shows how determining intelligence often says more about how humans think than about anything else.
 
 {{< video https://www.youtube-nocookie.com/embed/fGoWLWS4-kU >}}
 
-[Watch: *What animals are thinking and feeling, and why it should matter | Carl Safina | TEDxMidAtlantic*](https://www.youtube.com/watch?v=-wkdH_wluhw){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *What animals are thinking and feeling, and why it should matter | Carl Safina | TEDxMidAtlantic*](https://www.youtube.com/watch?v=-wkdH_wluhw){target="_blank"} [-@tedxtalksWhatAnimalsAre2016] <!-- Auto title, auto embed--> 
 
 In this video, Carl Safina takes us inside the lives and minds of animals around the world, witnessing their profound capacity for perception, thought and emotion, showing why the word "it" is often inappropriate as we discover "who" they really are. And yet, we are wiping out the very animals we should celebrate; we are the flood coming for Noah's Ark. Carl leaves us with a difficult question: Do we have what it takes to let life on earth survive?
 
@@ -107,21 +107,21 @@ The second answer to our question about animal rights could hardly be more diffe
 
 ::: {.learning-activity}
 
-Read the section on animal rights by Peter Singer (p. 429-435) in your textbook, *Readings in Moral Philosophy* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Read the section on animal rights by Peter Singer (pp. 429-435) in your textbook, *Readings in Moral Philosophy* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
 
 Next, choose from the following videos to learn more about key terms from this topic.
 
-[Watch: *Personhood: Crash Course Philosophy #21*](https://www.youtube.com/watch?v=GxM9BZeRrUI){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Personhood: Crash Course Philosophy #21*](https://www.youtube.com/watch?v=GxM9BZeRrUI){target="_blank"} [-@crashcoursePersonhoodCrashCourse2016]<!-- Auto title, auto embed--> 
 
 In this video, Hank tackles the question of personhood. The way we answer this question informs all sorts of things about the way we move about the world, including our views on some of our greatest social debates.
 
 {{< video https://www.youtube-nocookie.com/embed/GxM9BZeRrUI >}}
 
-[Watch: *Defining Speciesism with Peter Singer*](https://www.youtube.com/watch?v=k57F49ymmQg){target="_blank"}.
+[Watch: *Defining Speciesism with Peter Singer*](https://www.youtube.com/watch?v=k57F49ymmQg){target="_blank"} [-@animals&societyinstituteDefiningSpeciesismPeter2018].
 
 {{< video https://www.youtube-nocookie.com/embed/k57F49ymmQg?si=TKM24UL_eqzpVUpw >}}
 
-[Watch: *Peter Singer - Non-Human Animal Ethics - EA Global Melbourne 2015*](https://www.youtube.com/watch?v=TgRoZVT6kYc){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Peter Singer - Non-Human Animal Ethics - EA Global Melbourne 2015*](https://www.youtube.com/watch?v=TgRoZVT6kYc){target="_blank"} [-@sciencetechnology&thefuturePeterSingerNonhuman2015] <!-- Auto title, auto embed--> 
 
 In this video, Peter Singer discusses the moral value of non-human animals from Judaism & Christianity to Aristotle to Bentham. Singer highlights Benthan's view that the capacity for suffering/joy is the vital characteristic that entitles a being to moral consideration. He also discusses why we should take non-human animal suffering seriously and what we can do to alleviate the suffering of non-human animals.
 
@@ -145,17 +145,17 @@ We will want to take special note of Scruton’s reasoning and learn on what he 
 
 ::: {.learning-activity}
 
-Read the section on animal rights by Roger Scruton (p. 436-443) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Read the section on animal rights by Roger Scruton (pp. 436-443) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
 
 Next, watch the following videos to learn more about key terms from this topic.
 
-[Watch: *Ethics: Moral Status*](https://www.youtube.com/watch?v=smuhAjyRbw0&t=3s){target="_blank"}.
+[Watch: *Ethics: Moral Status*](https://www.youtube.com/watch?v=smuhAjyRbw0&t=3s){target="_blank"} [-@wirelessphilosophyPhilosophyEthicsMoral2014].
 
 {{< video https://www.youtube-nocookie.com/embed/smuhAjyRbw0?si=9n7GhNq9rKBP6zIS >}}
 
 In the following video, Tyler Doggett asks why it is morally permissible to kill animals for food. He offers a few explanations that seem unsatisfactory.
 
-[Watch: *Ethics: Killing Animals for Food*](https://www.youtube.com/watch?v=3HAMk_ZYO7g){target="_blank"}.
+[Watch: *Ethics: Killing Animals for Food*](https://www.youtube.com/watch?v=3HAMk_ZYO7g){target="_blank"} [-@wirelessphilosophyPhilosophyEthicsKilling2014].
 
 {{< video https://www.youtube-nocookie.com/embed/3HAMk_ZYO7g?si=kguP9RzjeYHn6qXf >}}
 
@@ -165,7 +165,7 @@ In the following video, Tyler Doggett asks why it is morally permissible to kill
 
 ::: {.learning-activity}
 
-For this case study, analyze Peter Singer’s well-known contention that the vital characteristic that gives a being the right to equal consideration is not the **ability to reason,** as is commonly assumed, but rather the **capacity for suffering.** To review this, see his article in the course readings (p. 429-432).
+For this case study, analyze Peter Singer’s well-known contention that the vital characteristic that gives a being the right to equal consideration is not the **ability to reason,** as is commonly assumed, but rather the **capacity for suffering.** To review this, see his article in the course readings (pp. 429-432).
 
 - Do you agree with this contention? Why or why not?
 - State also whether you agree with the principle he derives from this contention, namely, that the principle of equality which we commonly apply to humans should be extended to other species.
@@ -189,11 +189,11 @@ There are many sci-fi movies and shows that play with the idea of the personhood
 
 Watch the following video to learn more about if AI has rights.where Hank explores artificial intelligence, including weak AI and strong AI, and the various ways that thinkers have tried to define strong AI.
 
-[Watch: *Artificial Intelligence & Personhood: Crash Course Philosophy*](https://www.youtube.com/watch?v=39EdqUbj92U){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Artificial Intelligence & Personhood: Crash Course Philosophy*](https://www.youtube.com/watch?v=39EdqUbj92U){target="_blank"} [-@crashcourseArtificialIntelligencePersonhood2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/39EdqUbj92U >}}
 
-Then read the article from [Did A Robot Write This? How AI Is Impacting Journalism](https://www.forbes.com/sites/nicolemartin1/2019/02/08/did-a-robot-write-this-how-ai-is-impacting-journalism/?sh=286bd4eb7795){target="_blank"}
+Then read the article from [Did A Robot Write This? How AI Is Impacting Journalism](https://www.forbes.com/sites/nicolemartin1/2019/02/08/did-a-robot-write-this-how-ai-is-impacting-journalism/?sh=286bd4eb7795){target="_blank"} [-@martinDidRobotWrite2019]
 
 **Questions to Reflect on:**
 

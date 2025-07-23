@@ -2,7 +2,7 @@
 
 ## Overview {.unnumbered}
 
-[Watch: *Phil 210 Framing*](https://vimeo.com/861713419/4d5e72685d){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Phil 210 Framing*](https://vimeo.com/861713419/4d5e72685d){target="_blank"} [-@t.w.u.onlinePhil210Framing2023] <!-- Auto title, auto embed--> 
 
 {{< video https://vimeo.com/861713419/4d5e72685d >}}
 
@@ -67,7 +67,7 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, 2018.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy.* New York: W. W. Norton & Company, [-@wolffIntroductionMoralPhilosophy2018].
 - Other online resources will be provided in the unit.
 
 ## Developing a Moral Outlook
@@ -86,13 +86,13 @@ One key area of study involved in developing a moral outlook is meta-ethics, whi
 
 In the first activity, you are asked to read pages 1-7 of your textbook *An Introduction to Moral Philosophy* by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course. Next, watch the following videos to learn more about the key terms from this section. This first video starts with an overview of philosophical reasoning and breakdown of how deductive arguments work (and sometimes don’t work).
 
-[Watch: *How to Argue - Philosophical Reasoning: Crash Course Philosophy #2*](https://www.youtube.com/watch?v=NKEhdsnKKHs){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *How to Argue - Philosophical Reasoning: Crash Course Philosophy #2*](https://www.youtube.com/watch?v=NKEhdsnKKHs){target="_blank"} [-@crashcourseHowArguePhilosophical2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/NKEhdsnKKHs >}}
 
 In this second video, Hank explains three forms of moral realism – moral absolutism, and cultural relativism, including the difference between descriptive and normative cultural relativism – and moral subjectivism, which is a form of moral antirealism. Finally, he introduces the concept of an ethical theory.
 
-[Watch: *Metaethics: Crash Course Philosophy #32*](https://www.youtube.com/watch?v=FOoffXFpAlU){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Metaethics: Crash Course Philosophy #32*](https://www.youtube.com/watch?v=FOoffXFpAlU){target="_blank"} [-@crashcourseMetaethicsCrashCourse2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/FOoffXFpAlU >}}
 
@@ -140,7 +140,7 @@ Some other terms are **argument by analogy, argument to the best explanation, mo
 
 Watch the following video to get a better understanding of key terms for this topic.
 
-[Watch: *Moral Reasoning | Ethics Defined*](https://www.youtube.com/watch?v=h_sufC5nY18){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Moral Reasoning | Ethics Defined*](https://www.youtube.com/watch?v=h_sufC5nY18){target="_blank"} [-@mccombsschoolofbusinessMoralReasoningEthics2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/h_sufC5nY18 >}}
 
@@ -170,15 +170,15 @@ In chapter 2 of the Wolff Introduction text, we will come across a number of dif
 
 Read chapter 2 of your textbook, *An Introduction to Moral Philosophy* by Jonathan Wolff. Take notes on key terms and concepts. Next, choose from the following videos to get a better understanding of key terms for this topic.
 
-[Watch: *All is Not Relative | Concepts Unwrapped*](https://www.youtube.com/watch?v=Z11v2nWsgGA){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *All is Not Relative | Concepts Unwrapped*](https://www.youtube.com/watch?v=Z11v2nWsgGA){target="_blank"} [-@mccombsschoolofbusinessAllNotRelative2019] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/Z11v2nWsgGA >}}
 
-[Watch: *R&E Ethics: Absolutism vs Relativism*](https://www.youtube.com/watch?v=DxhsYTlBNG8){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *R&E Ethics: Absolutism vs Relativism*](https://www.youtube.com/watch?v=DxhsYTlBNG8){target="_blank"} [-@drlynchREEthics022016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/DxhsYTlBNG8 >}}
 
-[Watch: *Ayn Rand - Her Philosophy in Two Minutes*](https://www.youtube.com/watch?v=asery3UeBj4){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Ayn Rand - Her Philosophy in Two Minutes*](https://www.youtube.com/watch?v=asery3UeBj4){target="_blank"} [-@aynrandinstituteAynRandHer2015] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/asery3UeBj4 >}}
 
@@ -214,11 +214,11 @@ Read the first part of Chapter 3 (pages 40-44) of your textbook, *An Introductio
 
 Next, watch the following short videos to learn more about the term, moral nihilism.
 
-[Watch: *Philosophy Lexicon: Moral Nihilism*](https://www.youtube.com/watch?v=7VwpSMgJYqA){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Philosophy Lexicon: Moral Nihilism*](https://www.youtube.com/watch?v=7VwpSMgJYqA){target="_blank"} [-@anadalePhilosophyLexiconMoral2017] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/7VwpSMgJYqA >}}
 
-[Watch: *Jordan Peterson on Nihilism and its Opposite - Existential Courage*](https://www.youtube.com/watch?v=R-sYDf0YGv4){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Jordan Peterson on Nihilism and its Opposite - Existential Courage*](https://www.youtube.com/watch?v=R-sYDf0YGv4){target="_blank"} [-@gameofheroicmeaningJordanPetersonNihilism2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/R-sYDf0YGv4 >}}
 
@@ -246,23 +246,23 @@ Read the rest of Chapter 3 (pages 44-57) of An Introduction to Moral Philosophy.
 
 Next, choose from the following videos to learn more about key terms from this chapter.
 
-[Watch: *A Critique of Error Theory*](https://www.youtube.com/watch?v=WkVR99xX5XI ){target="_blank"}
+[Watch: *A Critique of Error Theory*](https://www.youtube.com/watch?v=WkVR99xX5XI ){target="_blank"} [-@inspiringphilosophyCritiqueErrorTheory2018]
 
 {{< video https://www.youtube-nocookie.com/embed/WkVR99xX5XI?si=01JgPO9kXcKAKezh >}}
 
-[Watch: *Moral Skepticism - Error Theory (J.L Mackie)*](https://www.youtube.com/watch?v=ycfRRJAkJLA){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Moral Skepticism - Error Theory (J.L Mackie)*](https://www.youtube.com/watch?v=ycfRRJAkJLA){target="_blank"} [-@philosophyvibeMoralSkepticismError2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/ycfRRJAkJLA >}}
 
-[Watch: *Ethical Subjectivism*](https://www.youtube.com/watch?v=7E3_kVg4sbY){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Ethical Subjectivism*](https://www.youtube.com/watch?v=7E3_kVg4sbY){target="_blank"} [-@philosophicsEthicalSubjectivism2017] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/7E3_kVg4sbY >}}
 
-[Watch: *Objective vs Subjective (Philosophical Distinction)*](https://www.youtube.com/watch?v=jlutlCrVQN4){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Objective vs Subjective (Philosophical Distinction)*](https://www.youtube.com/watch?v=jlutlCrVQN4){target="_blank"} [-@carneades.orgObjectiveVsSubjective2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/jlutlCrVQN4 >}}
 
-[Watch: *Subjectivism*](https://www.youtube.com/watch?v=UMUy9WX6sRQ){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Subjectivism*](https://www.youtube.com/watch?v=UMUy9WX6sRQ){target="_blank"} [-@sullivanSubjectivism2015] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/UMUy9WX6sRQ >}}
 
@@ -286,11 +286,11 @@ Read Chapter 4 (pages 58-69) of *An Introduction to Moral Philosophy.* As you re
 
 Next, watch the following videos to learn more about key terms from this chapter.
 
-[Watch: *Do You Have Free Will?*](https://www.youtube.com/watch?v=EMdAnU3vYzA&t=2s){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Do You Have Free Will?*](https://www.youtube.com/watch?v=EMdAnU3vYzA&t=2s){target="_blank"} [-@lifenogginYouHaveFree2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/EMdAnU3vYzA >}}
 
-[Watch: *Determinism vs Free Will: Crash Course Philosophy #24*](https://www.youtube.com/watch?v=vCGtkDzELAI){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Determinism vs Free Will: Crash Course Philosophy #24*](https://www.youtube.com/watch?v=vCGtkDzELAI){target="_blank"} [-@crashcourseDeterminismVsFree2016]<!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/vCGtkDzELAI >}}
 

@@ -30,9 +30,9 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff.
-  - John Stuart Mill’s article on free speech and its limits (p. 252-268)
-  - Catherine Mackinnon’s article on pornography, civil rights, and free speech (p.268-278)
+- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018].
+  - John Stuart Mill’s article on free speech and its limits (pp. 252-268)
+  - Catherine Mackinnon’s article on pornography, civil rights, and free speech (pp.268-278)
 - Read and analyze the “Controversial Speaker” Case Study
 - Take the ungraded quiz to review important concepts.
 
@@ -50,7 +50,7 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, [-@wolffIntroductionMoralPhilosophy2018].
 - Other online resources will be provided in the unit.
 
 ## A Moral Foundation for Free Speech
@@ -65,13 +65,13 @@ In the first activity, you are asked to read John Stuart Mill’s article on fre
 
 Next, choose from the following videos to learn more about key terms from this topic.
 
-[Watch: *Mill "On Liberty" - Freedom & Empire | Philosophy Tube*](https://www.youtube.com/watch?v=_wF2aIQM4M8){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Mill "On Liberty" - Freedom & Empire | Philosophy Tube*](https://www.youtube.com/watch?v=_wF2aIQM4M8){target="_blank"} [-@philosophytubeMillLibertyFreedom2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/_wF2aIQM4M8 >}}
 
 In this second video, we look at John Stuart Mill's influential work "On Liberty" in which he argues for the importance of individual liberties, especially freedom of opinion and expression.
 
-[Watch: *John Stuart Mill - On Liberty*](https://www.youtube.com/watch?v=QWZrHUvhXcw){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *John Stuart Mill - On Liberty*](https://www.youtube.com/watch?v=QWZrHUvhXcw){target="_blank"} [-@academyofideasJohnStuartMill2013] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/QWZrHUvhXcw >}}
 
@@ -85,17 +85,17 @@ If we agree that the right to free speech has a sound moral basis, does this mea
 
 ::: {.learning-activity}
 
-Read the article by Catherine Mackinnon on pornography, civil rights, and free speech, in pages 268-278 of your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
+Read the article by Catherine Mackinnon on pornography, civil rights, and free speech, in pages 268-278 of your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
 
 Next, watch the following videos to learn more about key terms from this topic.
 
-[Watch: *Freedom of Speech: Crash Course Government and Politics*](https://www.youtube.com/watch?v=Zeeq0qaEaLw){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Freedom of Speech: Crash Course Government and Politics*](https://www.youtube.com/watch?v=Zeeq0qaEaLw){target="_blank"} [-@crashcourseFreedomSpeechCrash2015] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/Zeeq0qaEaLw >}}
 
 In this second video, Craig talks about Free Speech, its importance and some of the more controversial aspects of free speech - like hate speech.
 
-[Watch: *The Pornography Phenomenon - Catharine MacKinnon*](https://www.youtube.com/watch?v=kdfPLJDmEIw){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *The Pornography Phenomenon - Catharine MacKinnon*](https://www.youtube.com/watch?v=kdfPLJDmEIw){target="_blank"} [-@pokatoesPornographyPhenomenonCatharine2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/kdfPLJDmEIw >}}
 

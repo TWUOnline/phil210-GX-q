@@ -39,9 +39,9 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff.
-   - Terror and Torture by Alan Dershowitz (p. 488-501)
-   - Terror and Torture by Michael Walzer (pages 501-511)
+- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018].
+   - Terror and Torture by Alan Dershowitz (pp. 488-501)
+   - Terror and Torture by Michael Walzer (pp. 501-511)
 - Watch the videos related to the topic Terror and Torture
 - Look up current events regarding torture and terrorism.
 - Take the ungraded quiz to review important concepts.
@@ -60,7 +60,7 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company,[-@wolffIntroductionMoralPhilosophy2018].
 - Other online resources will be provided in the unit.
 
 ## Is Torture Ever Justified?
@@ -83,19 +83,19 @@ These facts lead people to take differing opinions on this issue. As we read the
 
 ::: {.learning-activity}
 
-Read the section on terror and torture by Alan Dershowitz (p. 488-501) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
+Read the section on terror and torture by Alan Dershowitz (pp. 488-501) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. As you read, take notes in your Learning Journal, defining key terms and explaining key concepts.
 
-Next, read the article [“America is awesome…Right?”](https://ethicsunwrapped.utexas.edu/america-awesome-right){target="_blank"} From the *Ethics Unwrapped* website.
+Next, read the article [“America is awesome…Right?”](https://ethicsunwrapped.utexas.edu/america-awesome-right){target="_blank"} [-@prenticeAmericaAwesomeRight2014] From the *Ethics Unwrapped* website.
 
 After, watch the following videos to learn more about key terms from this topic.
 
-[Watch: *When is Torture Justified?*](https://www.youtube.com/watch?v=3548Ac9wGN8){target="_blank"}.
+[Watch: *When is Torture Justified?*](https://www.youtube.com/watch?v=3548Ac9wGN8){target="_blank"}[-@tedxtalksWhenTortureJustified2015].
 
 In this video, Lieutenant Colonel Jon S. Jackson, a career Army officer and lawyer, takes aim at this difficult issue -Torture- drawing on his experiences as defense counsel for detainees at Guantanamo Bay, Cuba.
 
 {{< video https://www.youtube.com/embed/3548Ac9wGN8 >}}
 
-[Watch: *Is Torture Ethical? We have an answer...*](https://www.youtube.com/watch?v=MfApHodpExM){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Is Torture Ethical? We have an answer...*](https://www.youtube.com/watch?v=MfApHodpExM){target="_blank"} [-@kylehunterTortureEthicalWe2017] <!-- Auto title, auto embed--> 
 
 In this video, you will look at the "Ticking Bomb" thought experiment to figure out if torture is ethical or not. You will look at the issue through Kantianism, Virtue Ethics, Utilitarianism, and Egoism, then propose a solution that everyone can agree on.
 
@@ -111,7 +111,7 @@ In this final topic, we are shifting focus from torture to terrorism and this ra
 
 ::: {.learning-activity}
 
-Read the section on terror and torture by Michael Walzer (p. 501-511) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Read the section on terror and torture by Michael Walzer (pp. 501-511) in your textbook *“Readings in Moral Philosophy”* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
 
 Next, choose from the following videos to learn more about key terms from this topic.
 
@@ -119,15 +119,15 @@ Next, choose from the following videos to learn more about key terms from this t
 
 {{< video https://www.youtube-nocookie.com/embed/LcBovmGZSPU >}}
 
-[Watch: *Michael Walzer on Just War and Terrorism*](https://www.youtube.com/watch?v=TOfS3IIqP0M){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Michael Walzer on Just War and Terrorism*](https://www.youtube.com/watch?v=TOfS3IIqP0M){target="_blank"} [-@bigthinkMichaelWalzerJust2011] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/TOfS3IIqP0M >}}
 
-[Watch: *Michael Walzer: U.S. Treatment of Enemy Combatants*](https://www.youtube.com/watch?v=X_R6Lh-N2bg){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Michael Walzer: U.S. Treatment of Enemy Combatants*](https://www.youtube.com/watch?v=X_R6Lh-N2bg){target="_blank"} [-@bigthinkMichaelWalzerUS2012] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/X_R6Lh-N2bg >}}
 
-[Watch: *Terrorism and Just War - Michael Walzer*](https://www.youtube.com/watch?v=yZEprmCb5Pk){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Terrorism and Just War - Michael Walzer*](https://www.youtube.com/watch?v=yZEprmCb5Pk){target="_blank"} [-@instituteforadvancedstudyTerrorismJustWar2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/yZEprmCb5Pk >}}
 

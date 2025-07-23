@@ -35,7 +35,7 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff.
+- Read the following articles of the textbook “Readings in Moral Philosophy” by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018].
   - Sexual morality by Lois Pineau (p. 293-306)
   - Sexual morality by Nicholas Dixon (p. 306-316)
   - Hookup culture, (p. 316-328)
@@ -57,7 +57,7 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, [-@wolffIntroductionMoralPhilosophy2018].
 - Other online resources will be provided in the unit.
 
 ## Date Rape
@@ -72,15 +72,15 @@ Read the section on date rape by Lois Pineau (p. 293-306) of your textbook *“R
 
 Next, watch the following videos to learn more about key terms from this topic.
 
-[Watch: *What is the difference between rape and sexual assault or harassment, in the US?*](https://www.youtube.com/watch?v=0T3EMaKpGSQ){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *What is the difference between rape and sexual assault or harassment, in the US?*](https://www.youtube.com/watch?v=0T3EMaKpGSQ){target="_blank"} [-@clarifybyplaybacWhatDifferenceRape2017] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/0T3EMaKpGSQ >}}
 
-[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Tea Consent (Clean)*](https://www.youtube.com/watch?v=fGoWLWS4-kU){target="_blank"} [-@blueseatstudiosTeaConsentClean2015] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/fGoWLWS4-kU >}}
 
-[Watch: *When Your Date Doesn't Hear The Word "No"*](https://www.youtube.com/watch?v=qj_OcHp7zm8){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *When Your Date Doesn't Hear The Word "No"*](https://www.youtube.com/watch?v=qj_OcHp7zm8){target="_blank"} [-@as/isWhenYourDate2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/qj_OcHp7zm8 >}}
 
@@ -98,11 +98,11 @@ Read the section on alcohol and rape by Nicholas Dixon (p. 306-316) of your text
 
 Next, watch the following videos to learn more about key terms from this topic.
 
-[Watch: *U of A Sexual Assault Centre: Let’s Talk: Alcohol and Sexual Assault*](https://www.youtube.com/watch?v=kU_TVp6_slw){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *U of A Sexual Assault Centre: Let’s Talk: Alcohol and Sexual Assault*](https://www.youtube.com/watch?v=kU_TVp6_slw){target="_blank"} [-@uofastudentlifeSexualAssaultCentre2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/kU_TVp6_slw >}}
 
-[Watch: *Washington Post-Kaiser poll*](https://www.washingtonpost.com/video/national/college-students-define-sexual-consent/2015/06/12/2c06cd5e-114a-11e5-a0fe-dccfea4653ee_video.html){target="_blank"}
+[Watch: *Washington Post-Kaiser poll*](https://www.washingtonpost.com/video/national/college-students-define-sexual-consent/2015/06/12/2c06cd5e-114a-11e5-a0fe-dccfea4653ee_video.html){target="_blank"} [-@orensteinCollegeStudentsDefine2015]
 
 ::: {.video-container}
 
@@ -120,7 +120,7 @@ Date rape does not happen in isolation. It occurs within a social context, and a
 
 ::: {.learning-activity}
 
-Read the section on hookup culture, (p. 316-328) of your textbook, *Readings in Moral Philosophy* by Jonathan Wolff. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
+Read the section on hookup culture, (pp. 316-328) of your textbook, *Readings in Moral Philosophy* by Jonathan Wolff [-@wolffReadingsMoralPhilosophy2018]. Take notes defining key terms and ideas. Study the chapter review summary, questions and key terms.
 
 :::
 

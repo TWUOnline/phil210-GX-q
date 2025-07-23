@@ -67,7 +67,7 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, 2018.
+- Wolff, Jonathan. *An Introduction to Moral Philosophy*. New York: W. W. Norton & Company, [-@wolffIntroductionMoralPhilosophy2018].
 - Other online resources will be provided in the unit.
 
 ## Egoism
@@ -90,7 +90,7 @@ As we read the chapter on egoism in the Wolff text, think carefully about the im
 
 Read Chapter 6 on Egoism of your textbook “*An Introduction to Moral Philosophy*” by Jonathan Wolff. As you read, be sure to take notes in your Learning Journal, defining key terms and explaining key concepts. Study the chapter review summary, questions and key terms. This will help you as you complete the assessments in this course.
 
-Next, [Watch: *What is Egoism? (Philosophical Positions)*](https://www.youtube.com/watch?v=jpHggd-3_rM){target="_blank"} which illustrates various types of egoism:
+Next, [Watch: *What is Egoism? (Philosophical Positions)*](https://www.youtube.com/watch?v=jpHggd-3_rM){target="_blank"} [-@carneades.orgWhatEgoismPhilosophical2016] which illustrates various types of egoism:
 
 {{< video https://www.youtube-nocookie.com/embed/jpHggd-3_rM?si=vu97Z3d4v4ZNUpZT >}}
 
@@ -122,7 +122,7 @@ Read Chapter 7 of your textbook *“An Introduction to Moral Philosophy,”* by 
 
 Next, watch the following video to get a better understanding of social contract morality. In this video Hank explains Hobbes’ state of nature, implicit and explicit contracts, as well as the Prisoner’s Dilemma, and the benefits, and costs, of violating contracts.
 
-[Watch: *Contractarianism: Crash Course Philosophy #37*](https://www.youtube.com/watch?v=2Co6pNvd9mc){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Contractarianism: Crash Course Philosophy #37*](https://www.youtube.com/watch?v=2Co6pNvd9mc){target="_blank"} [-@crashcourseContractarianismCrashCourse2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/2Co6pNvd9mc >}}
 
